@@ -1,0 +1,87 @@
+[
+    
+    {
+        "id":1,
+        "name":"Linear Algebra Refresher",
+        "title":"Linear Algebra Refresher",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn linear algebra by coding your own library of functions with instructor Chris Pryby on Udacity. This hands-on course helps you master key concepts through practical coding exercises.",
+        "link":"https://www.udacity.com/enrollment/ud953",
+        "certificate":"Free"
+    },
+    {
+        "id":2,
+        "name":"Math for AI beginner part 1 Linear Algebra",
+        "title":"Math for AI beginner part 1 Linear Algebra",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore AI concepts like machine learning and deep learning while applying linear algebra to algorithms in this Udemy course by Yoon Yong Jin. Learn matrix operations, eigenvalues, and their applications in AI",
+        "link":"https://www.udemy.com/course/linear-algebra-for-data-science-machine-learning-ai/?couponCode=IND21PM",
+        "certificate":"Paid"
+    },
+    {
+        "id":3,
+        "name":"Linear Algebra for Machine Learning",
+        "title":"Linear Algebra for Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn essential linear algebra concepts for machine learning on Udemy with Krunal Patel. Refresh your knowledge of matrices, eigenvalues, and more to strengthen your machine learning foundation.",
+        "link":"https://www.udemy.com/course/linear-algebra-basics-for-machine-learning/",
+        "certificate":"Free"
+    },
+    {
+        "id":4,
+        "name":"Linear Algebra Crash Course - Mathematics for Machine Learning",
+        "title":"Linear Algebra Crash Course - Mathematics for Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn linear algebra for data science, machine learning, and AI with Tatev Aslanyan in this 6-hour crash course on freeCodeCamp.org. It covers essential topics like vectors, matrices, and solving linear systems with practical examples.",
+        "link":"https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
+        "certificate":"Free"
+    }
+    ,
+    {
+        "id":5,
+        "name":"Linear Algebra Vectors and Scalars",
+        "title":"Linear Algebra Vectors and Scalars",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn about vectors and scalars in linear algebra with Khan Academy's detailed lessons. Explore key concepts and their applications to build a strong foundation in this essential mathematical topic.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Linear+Algebra+Vectors+and+Scalars%3A&domains=math",
+        "certificate":"Free"
+    }
+    ,
+    {
+        "id":6,
+        "name":"Linear Algebra  Matrix",
+        "title":"Linear Algebra  Matrix",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn about matrices in linear algebra with Khan Academy's comprehensive lessons. Gain a strong understanding of matrix operations and their applications in various mathematical fields",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Linear+Algebra++Matrix&domains=math",
+        "certificate":"Free"
+    }
+    ,
+    {
+        "id":7,
+        "name":"Linear Algebra Eigenvectors and Eigenvalues",
+        "title":"Linear Algebra Eigenvectors and Eigenvalues",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master eigenvectors and eigenvalues in linear algebra through Khan Academy’s clear and detailed lessons. These concepts are key to understanding advanced topics in data science, machine learning, and more",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Linear+Algebra+Eigenvectors+and+Eigenvalues&domains=math",
+        "certificate":"Free"
+    }
+    ,
+    {
+        "id":8,
+        "name":"Linear Algebra Determinants",
+        "title":"Linear Algebra Determinants",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn about determinants in linear algebra with Khan Academy's detailed lessons. Understand how determinants are calculated and their importance in solving systems of equations and matrix analysis.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Linear+Algebra+Determinants%3A&domains=math",
+        "certificate":"Free"
+    }
+]

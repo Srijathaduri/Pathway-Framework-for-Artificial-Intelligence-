@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Programming Foundations:Discrete mathematics",
+        "title":"Programming Foundations:Discrete mathematics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn discrete mathematics for programming with Peggy Fisher on LinkedIn Learning. Apply concepts like sets, graphs, and logic to write cleaner and more efficient code.",
+        "link":"https://www.linkedin.com/learning/programming-foundations-discrete-mathematics",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Introduction to Discrete Mathematics for Computer Science Specialization",
+        "title":"Introduction to Discrete Mathematics for Computer Science Specialization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master discrete mathematics with instructors Michael Levin, Vladimir Podolsky, and Alexander S. Kulikov on Coursera, solving real-world problems like the traveling salesman challenge.",
+        "link":"https://www.coursera.org/specializations/discrete-mathematics?action=enroll",
+        "certificate":"Paid"
+    },
+    {
+        "id":3,
+        "name":"Discrete Mathematics",
+        "title":"Discrete Mathematics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Discrete Mathematics with Raana Abdul Rehman on Great Learning, covering essential topics like logic, sets, and graph theory. Build a strong foundation for problem-solving",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/discrete-mathematics-part-1",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":4,
+        "name":"Discrete math for computer science",
+        "title":"Discrete math for computer science",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master discrete mathematics with Luke on Udemy, covering topics like logic, sets, and combinatorics. Strengthen your programming skills through practical exercises and engaging lessons.",
+        "link":"https://www.udemy.com/course/discrete-mathematics-learn-discrete-math/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.EN_cc.India&campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_166578677881_._ad_700948726517_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_9197649_._pd__._&matchtype=&gad_source=2&gclid=CjwKCAjwg-24BhB_EiwA1ZOx8pd8e7ThYtr432Kf7QOY5ViPdWdo642egYsVPzSeIwDb6LclvTXsCRoCWX4QAvD_BwE&couponCode=IND21PM",
+        "certificate":"Paid"
+    },
+    {
+        "id":5,
+        "name":"Discrete Mathematics Syllabus ",
+        "title":"Discrete Mathematics Syllabus ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Discrete Mathematics with Gate Smashers on YouTube, covering topics like logic, sets, and combinatorics. Build a strong foundation with practical examples and clear explanations",
+        "link":"https://www.youtube.com/watch?v=YBb2oYIzXK0&list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Discrete Mathematics",
+        "title":"Discrete Mathematics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Discrete Mathematics and Set Theory with Dr. Gajendra Purohit on YouTube. Gain a clear understanding of key concepts through detailed explanations and examples.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Calculus+Gradient+Descent&domains=math",
+        "certificate":""
+    },
+    {
+        "id":7,
+        "name":"Introduction to Discrete Mathematics",
+        "title":"Introduction to Discrete Mathematics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn the basics of Discrete Mathematics with Neso Academy on YouTube. Understand key concepts like logic, sets, and combinatorics through clear and engaging lessons.",
+        "link":"https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3",
+        "certificate":""
+    },
+    {
+        "id":8,
+        "name":"Discrete Mathematics",
+        "title":"Discrete Mathematics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Set Theory, types of sets, and cardinality with Pradeep Giri Sir on YouTube. Understand key Discrete Mathematics concepts through clear explanations and examples.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Integrals&domains=math",
+        "certificate":""
+    }
+    
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"What Is Scikit-Learn | Introduction To Scikit-Learn",
+        "title":"What Is Scikit-Learn | Introduction To Scikit-Learn",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn about Scikit-Learn in this YouTube tutorial by Intellipaat. Understand key algorithms and how to apply them",
+        "link":"https://www.youtube.com/watch?v=7z8-QWlbmoo&list=PLVHgQku8Z9348d6xguTn8zbcUYntz3dQG",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Introduction to Scikit-Learning ",
+        "title":"Introduction to Scikit-Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master Scikit-Learn with Anirudh Rao on Great Learning, covering key machine learning algorithms for classification and regression. Build and deploy models with practical, hands-on exercises.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/scikit-learn",
+        "certificate":"free with certificate"
+    },
+    {
+        "id":3,
+        "name":"Machine Learning with Scikit-Learning",
+        "title":"Machine Learning with Scikit-Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master machine learning with scikit-learn in this LinkedIn Learning course by Michael Galarnyk, covering key algorithms and model-building techniques. Create efficient, robust models",
+        "link":"https://www.linkedin.com/learning/machine-learning-with-scikit-learn",
+        "certificate":"Free Online Course,Paid Certificate Available"
+    },
+    {
+        "id":4,
+        "name":"Machine Learning with Scikit-Learning",
+        "title":"Machine Learning with Scikit-Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn machine learning with scikit-learn in this freeCodeCamp course by Beau Carnes, covering essential algorithms and practical applications. Build AI models using hands-on examples",
+        "link":"https://www.freecodecamp.org/news/machine-learning-with-scikit-learn-full-course/",
+        "certificate":""
+    },
+    {
+        "id":5,
+        "name":"Introduction to Scikit-Learn: Builtin Datasets and Train-Test Split",
+        "title":"Introduction to Scikit-Learn: Builtin Datasets and Train-Test Split",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Scikit-Learn basics and how to use its datasets in this tutorial by Noor on the AI with Noor channel. Understand key concepts like the train-test split for machine learning.",
+        "link":"https://www.youtube.com/watch?v=NcVgJKaFecY&list=PLdF3rLdF4ICSDzmnqIueQDdyODJB8TaA0",
+        "certificate":""
+    }
+]

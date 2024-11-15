@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"Intro to deep learning with Pytorch",
+        "title":"Intro to deep learning with Pytorch",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Join Luis Serrano in this Udacity course to explore deep learning with PyTorch, from basic concepts to hands-on model training. Gain practical skills to create and deploy powerful AI models",
+        "link":"https://www.udacity.com/course/deep-learning-pytorch--ud188",
+        "certificate":"free without certificate"
+    },
+    {
+        "id":2,
+        "name":"Learn PyTorch for Deep Learning ",
+        "title":"Learn PyTorch for Deep Learning ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn PyTorch for deep learning with Daniel Bourke, building skills through practical coding. Create and apply your own projects with confidence.",
+        "link":"https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/",
+        "certificate":"free without certificate"
+    },
+    {
+        "id":3,
+        "name":":Pytorch Essential training with deep learning",
+        "title":":Pytorch Essential training with deep learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master deep learning with PyTorch in this LinkedIn Learning course by Terezija Semenski, featuring hands-on coding challenges to boost your skills..",
+        "link":"https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149",
+        "certificate":"Free Online Course (Audit),Paid Certificate Available"
+    },
+    {
+        "id":4,
+        "name":"Hands_on pytorch Machine Learning",
+        "title":"Hands_on pytorch Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Get hands-on with PyTorch and machine learning in this course by Helen Sun, learning to build efficient models for real-world applications.",
+        "link":"https://www.linkedin.com/learning/hands-on-pytorch-machine-learning",
+        "certificate":""
+    },
+    {
+        "id":5,
+        "name":"Natural Learning Processing with Pytorch",
+        "title":"Natural Learning Processing with Pytorch",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore natural language processing with PyTorch in this course by Zhongyu Pan, covering text transformation, model building, and tuning for better results.",
+        "link":"https://www.linkedin.com/learning/natural-language-processing-with-pytorch",
+        "certificate":"Free"
+    }
+]

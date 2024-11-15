@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Math for AI and ML",
+        "title":"Math for AI and ML",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn key math concepts for AI and ML on YouTube with ChemCoder, where easy strategies help learners of all levels build strong skills quickly!",
+        "link":"https://www.youtube.com/watch?v=pyxb2Lt-KDI&t=2s",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Mathematics for Engineers Specialization",
+        "title":"Mathematics for Engineers Specialization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn key math concepts for AI and ML on YouTube with ChemCoder, where easy strategies help learners of all levels build strong skills quickly!",
+        "link":"https://www.coursera.org/specializations/mathematics-engineers#courses",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Mathematics for AI & ML Developers",
+        "title":"Mathematics for AI & ML Developers",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master key math concepts like probability, calculus, and linear algebra for AI on Udemy, taught by Eduonix Learning Solutions. Gain the skills to become an AI specialist with expert guidance!",
+        "link":"https://www.udemy.com/course/mathematics-for-ai-ml-developers-the-complete-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.EN_cc.India&campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_166578677881_._ad_700948726517_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_9197649_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQiArby5BhCDARIsAIJvjIT6AgZmLsfNiKGYQiK79aC9ofKmvmv6Yg3-KmldF2L1yFXzuo31df8aAsJgEALw_wcB&couponCode=IND21PM",
+        "certificate":"Paid"
+    },
+    {
+        "id":4,
+        "name":"Master the Mathematics Behind AI and Unlock Your Potential",
+        "title":"Mathematics for AI & ML Developers",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":":Learn foundational math for machine learning with Luis Serrano from DeepLearning.AI, applying concepts through Python programming.",
+        "link":"https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/",
+        "certificate":"Paid"
+    }
+
+
+]

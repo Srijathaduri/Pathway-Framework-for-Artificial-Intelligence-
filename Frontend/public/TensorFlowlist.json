@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "title":"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master TensorFlow with Laurence Moroney in this GreatLearning course, building neural networks and training models for computer vision applications",
+        "link":"https://www.coursera.org/learn/introduction-tensorflow",
+        "certificate":"free without certificate"
+    },
+    {
+        "id":2,
+        "name":"Introduction to Machine learning with TensorFlow",
+        "title":"Introduction to Machine learning with TensorFlow",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn machine learning with TensorFlow in this Udacity course by Michael Virgo and Andrew Paster, covering both supervised and unsupervised techniques. Build real-world models using tensor flow",
+        "link":"https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230",
+        "certificate":"Paid"
+    },
+    {
+        "id":3,
+        "name":"TensorFlow 2.0 Tutorial For Beginners",
+        "title":"TensorFlow 2.0 Tutorial For Beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Get started with TensorFlow 2.0 in this Simplilearn YouTube tutorial, covering everything from basics to advanced concepts, including its applications and architecture.",
+        "link":"https://www.linkedin.com/learning/pytorch-essential-training-deep-learning-23753149",
+        "certificate":""
+    },
+    {
+        "id":4,
+        "name":"TensorFlow Python",
+        "title":"TensorFlow Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn TensorFlow with Anirudh Rao on Great Learning, covering the fundamentals of building deep learning models in Python. Apply these skills to real-world machine learning projects.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/tensorflow-python",
+        "certificate":"free without certificate"
+    },
+    {
+        "id":5,
+        "name":"How to Use TensorFlow for Deep Learning",
+        "title":"How to Use TensorFlow for Deep Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore TensorFlow for deep learning in this freeCodeCamp tutorial by Manish Shivanandan, covering the basics of tensors and their use in AI models.",
+        "link":"https://www.freecodecamp.org/news/tensorflow-basics/",
+        "certificate":"Free"
+    }
+]

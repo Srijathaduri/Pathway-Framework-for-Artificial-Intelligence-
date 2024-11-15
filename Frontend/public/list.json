@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"AI Fundamentals",
+        "title":"AI Fundamentals",
+        "image":"AI_fundamental2.jpg",
+        "category":"AIHub",
+        "description":"Learn AI Fundamentals on Microsoft Azure through Udacity ,with instructors Kyle Bunting, Ciprian Jichici, Daron Yondem, and Kevin Feasel, covering Computer Vision, NLP, and Conversational AI through hands-on exercises.",
+        "link":"https://www.udacity.com/course/ai-fundamentals--ud099",
+        "certificate":"Free course"
+    },
+
+    {
+        "id":2,
+        "name":"AI in Everyday Life",
+        "title":"AI in Everyday Life",
+        "image":"ai_in_everyday_life_.jpg",
+        "category":"AIHub",
+        "description":"Learn how AI is transforming daily life with Sandeep Manocha, founder of Manocha Academy, on the YouTube channel. Discover how AI automates tasks, informs decisions, and enhances our experiences!",
+        "link":"https://www.youtube.com/watch?v=QZGMrRuhVhw",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Pathway of AI",
+        "title":"Pathway of AI",
+        "image":"Pathways in AI.png",
+        "category":"AIHub",
+        "description":"Learn how AI has evolved with Koushik Valleri on the 100x Engineers YouTube channel, exploring its key breakthroughs and impact on daily life. Discover the incredible potential AI holds for the future!",
+        "link":"https://www.youtube.com/watch?v=ghdK1ZGDeRk",
+        "certificate":""
+    },
+    {
+        "id":4,
+        "name":"AI Inspiration",
+        "title":"AI Inspiration",
+        "image":"AI-aspirent.avif",
+        "category":"AIHub",
+        "description":"Learn from Rishi Sunak and Elon Musk as they discuss AI, technology, and the future of humanity on the Rishi Sunak YouTube channel.",
+        "link":"https://www.youtube.com/watch?v=R2meHtrO1n8",
+        "certificate":""
+    }
+ 
+    
+]

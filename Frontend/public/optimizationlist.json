@@ -1,0 +1,260 @@
+[
+    {
+        "id":1,
+        "name":"Introduction to Optimization",
+        "title":"Introduction to Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This edX course by Song-Pil Hong and Min Hee Lee covers modern optimization fundamentals, including linear and nonlinear models, with applications in urban railway routing and congestion prediction.",
+        "link":"https://www.edx.org/learn/computer-programming/seoul-national-university-introduction-to-optimization?index=product&queryID=3ccb71621c365fb060ec52fc182f3272&position=1&results_level=first-level-results&term=+Linear+Programming&objectID=course-597ffd81-454b-4d69-b28c-3319c6cfcfd5&campaign=Introduction+to+Optimization&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+        "certificate":"course for free, paid certificate"
+    },
+    {
+        "id":2,
+        "name":"Linear Programming for Data Science",
+        "title":"Linear Programming for Data Science",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore Linear Programming for Data Science on Great Learning, taught by Dr. P.K. VISWANATHAN, for a free introduction to optimizing data science models using linear programming techniques.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/linear-programming-for-data-science",
+        "certificate":"free course & certificate"
+    },
+    {
+        "id":3,
+        "name":"Linear Programming",
+        "title":"Linear Programming",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" Explore Linear Programming at Khan Academy to learn optimization techniques for maximizing or minimizing linear functions within constraints.",
+        "link":"https://www.khanacademy.org/math/ncert-class-12/x7ce8ca9c5869750b:linear-programming-ncert-new",
+        "certificate":"Free"
+    },
+    
+    {
+        "id":4,
+        "name":"Linear Programming",
+        "title":"Linear Programming",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn the basics of linear programming, including objective functions, constraints, and optimization, in this video by The Organic Chemistry Tutor from YouTube.",
+        "link":"https://youtu.be/Bzzqx1F23a8?si=xQw_hYs7HdAMn0tJ",
+        "certificate":""
+    },
+    
+    {
+        "id":5,
+        "name":"Gradient Descent",
+        "title":"Gradient Descent",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" Learn about gradient descent, how it works, the algorithm behind it, and its applications in machine learning and deep learning, explained by Aman from the Unfold Data Science YouTube channel.",
+        "link":"https://youtu.be/gzrQvzYEvYc?si=cCotHjq9r9pVrgYp",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Gradient Descent",
+        "title":"Gradient Descent",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" Josh Starmer from the Youtube channel StatQuest with Josh Starmer explains gradient descent, covering single-variable optimization, loss functions, the gradient descent algorithm, and stochastic gradient descent",
+        "link":"https://youtu.be/sDv4f4s2SB8?si=49Meihzn9-TkE1TW",
+        "certificate":""
+    },
+    {
+        "id":7,
+        "name":"Introduction and Agenda of Stochastic Gradient Descent",
+        "title":"Introduction and Agenda of Stochastic Gradient Descent",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This course taught by Shambavi Gupta on Great Learning explains the optimization technique used in machine learning for minimizing loss functions and its practical applications.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/stochastic-gradient-descent",
+        "certificate":"free course & certificate"
+    },
+    {
+        "id":8,
+        "name":"Stochastic Gradient Descent",
+        "title":"Introduction and Agenda of Stochastic Gradient Descent",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This video by Josh Starmer from the Youtube channel StatQuest with Josh Starmer introduces Stochastic Gradient Descent (SGD), explaining its role in optimizing machine learning models by iteratively adjusting weights to minimize the loss function.",
+        "link":"https://youtu.be/vMh0zPT0tLI?si=8kDZi5NkA6W_C5RS",
+        "certificate":"free course & certificate"
+    },
+    {
+        "id":9,
+        "name":"Convex Optimization",
+        "title":"Convex Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This course, led by Stephen Boyd and Henryk Blasinski on EdX, teaches how to recognize, solve, and apply convex optimization problems, covering theory, computational methods, and practical applications.",
+        "link":"https://www.edx.org/learn/engineering/stanford-university-convex-optimization?index=product&queryID=fa69a6dc930f6ea487ffda0d09cfa7a0&position=10&results_level=second-level-results&term=+Linear+Programming&objectID=course-4a081c09-82b6-4c2c-b41c-75e995cafef8&campaign=Convex+Optimization&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+        "certificate":"free course paid certificate"
+    },
+    {
+        "id":10,
+        "name":"Convex Optimization",
+        "title":"Convex Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This course covers convex optimization, including theory, methods, and applications in fields like machine learning, engineering, and finance. Taught by Professor Stephen Boyd from the YouTube channel Stanford Online",
+        "link":"https://youtu.be/vMh0zPT0tLI?si=8kDZi5NkA6W_C5RS",
+        "certificate":"free course & certificate"
+    },
+    {
+        "id":11,
+        "name":"Non-convex Optimization",
+        "title":"Convex Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This playlist, Non-convex Optimization and Deep Learning Workshop from YouTube channel Leo Du, covers non-convex optimization methods and their applications in deep learning.",
+        "link":"https://youtube.com/playlist?list=PLpuGiWaHpPC2LBwHTYZM4Z48WeLVnTTko&si=ieTUxAkU9lB1VrfK",
+        "certificate":""
+    },
+    {
+        "id":12,
+        "name":"Method of Lagrange Multipliers",
+        "title":"Method of Lagrange Multipliers",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"The course on the Method of Lagrange Multipliers, provided by GreatLearning and taught by instructor R. Ramya, covers how to optimize functions subject to constraints. It introduces Lagrange multipliers to solve these problems effectively.",
+        "link":"https://www.edx.org/learn/engineering/stanford-university-convex-optimization?index=product&queryID=fa69a6dc930f6ea487ffda0d09cfa7a0&position=10&results_level=second-level-results&term=+Linear+Programming&objectID=course-4a081c09-82b6-4c2c-b41c-75e995cafef8&campaign=Convex+Optimization&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+        "certificate":"free course & certificate)"
+    },
+    {
+        "id":13,
+        "name":"Lagrange multipliers and constrained optimization",
+        "title":"Lagrange multipliers and constrained optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"The Khan Academy video explains using Lagrange multipliers for constrained optimization, showing how tangency between the gradients of the objective function and constraint reveals optimal solutions.",
+        "link":"https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization/v/constrained-optimization-introduction",
+        "certificate":"free"
+    },
+    {
+        "id":14,
+        "name":"Lagrange Multipliers",
+        "title":"Convex Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Dr. Trefor Bazett's video explains how Lagrange multipliers solve constrained optimization by finding points where the function's contour lines are tangent to the constraint curve. This condition leads to the equation involving the gradients of the function and the constraint.",
+        "link":"https://youtu.be/8mjcnxGMwFo?si=ysMfIB3INhaN5IK6",
+        "certificate":""
+    },
+    {
+        "id":15,
+        "name":"Duality",
+        "title":"Duality",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"The Duality playlist on YouTube by the channel MathPod explains duality in optimization, focusing on the relationship between primal and dual problems. It simplifies these concepts for better understanding and application.",
+        "link":"https://youtu.be/8mjcnxGMwFo?si=ysMfIB3INhaN5IK6",
+        "certificate":""
+    },
+    {
+        "id":16,
+        "name":"Bayesian Optimization for Engineers",
+        "title":"Bayesian Optimization for Engineers",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"The YouTube channel Modeling, Identification, Control (A. Sala) compiles videos on Bayesian Optimization, covering the entire methodology. This main list will include all uploads, while a separate, shorter list focuses on introductory topics.",
+        "link":"https://youtube.com/playlist?list=PLUznGnCqeYcfiuu0WoKWZt_FittD1NOXl&si=tIeUM0yonBXVPc-C",
+        "certificate":""
+    }
+    ,
+    {
+        "id":17,
+        "name":"Bayesian Optimization",
+        "title":"Bayesian Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"The YouTube video by Wotao Yin explains Bayesian Optimization, focusing on Surrogate Models, Acquisition Functions, and their application in optimization tasks like hyperparameter tuning. They provide practical insights into the algorithm and its implementation.",
+        "link":"https://youtube.com/playlist?list=PLk_4zIioTEbf59CqcUOu8pqJXN3xouMh2&si=0f6cSz-K6knGqY-b",
+        "certificate":""
+    },
+    {
+        "id":18,
+        "name":"Constrained optimization introduction",
+        "title":"Constrained optimization introduction",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This Khan Academy video from YouTube introduces constrained optimization, explaining how to find optimal values under specific constraints.",
+        "link":"https://youtu.be/vwUV2IDLP8Q?si=xDpTl6ctXAeO_mHv",
+        "certificate":""
+    }
+    ,
+    {
+        "id":19,
+        "name":"Constrained Optimization Lecture ",
+        "title":"Constrained Optimization Lecture ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" This series from the YouTube channel Mathfied covers the fundamentals of constrained optimization, focusing on methods to find optimal solutions within specified constraints.",
+        "link":"https://youtube.com/playlist?list=PL2960304D950AA0A8&si=zM5tMyaqbNqAbTe1",
+        "certificate":""
+    },
+    {
+        "id":20,
+        "name":"Constrained Optimization: Intuition behind the Lagrangian",
+        "title":"Constrained Optimization: Intuition behind the Lagrangian",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This content from the YouTube channel MATLAB explains the intuition behind the Lagrangian method in constrained optimization, detailing how it helps find optimal solutions while respecting constraints.",
+        "link":"https://youtu.be/GR4ff0dTLTw?si=kp-yrhm1wl1NKecd",
+        "certificate":""
+    }
+    ,
+    {
+        "id":19,
+        "name":" Adam Optimization Algorithm (C2W2L08)",
+        "title":" Adam Optimization Algorithm (C2W2L08)",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This video from the YouTube channel DeeplearningAI explains the Adam optimization algorithm, a popular method in deep learning for improving training efficiency by adjusting learning rates for each parameter.",
+        "link":"https://youtu.be/JXQT_vxqwIs?si=0alIgCVYpMYKaRSq",
+        "certificate":""
+    },
+    {
+        "id":20,
+        "name":"Optimization Algorithms",
+        "title":"Optimization Algorithms",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"These lectures from Constantine Caramanis on YouTube cover advanced convex optimization algorithms, including gradient descent, stochastic methods, and dual decomposition. They offer in-depth analysis and practical insights into various optimization techniques",
+        "link":"https://youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc&si=ndNkMzFzApXvvt-n",
+        "certificate":""
+    },
+    {
+        "id":21,
+        "name":"Multi-Objective Optimization",
+        "title":"Multi-Objective Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This video from the YouTube channel Pareto's explains multi-objective optimization, focusing on methods for solving problems involving multiple conflicting objectives. It provides insights into balancing and finding efficient solutions.",
+        "link":"https://youtu.be/Zchm_W6tFz4?si=DtQmXgTssncG0VFU",
+        "certificate":""
+    },
+    {
+        "id":21,
+        "name":"Multi-Objective Optimization",
+        "title":"Multi-Objective Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" This video from the YouTube channel StudyKorner introduces multi-objective optimization, explaining approaches to handle problems with multiple objectives and how to achieve balanced solutions.",
+        "link":"https://youtu.be/LAC212ZwBB4?si=k1N3J2O8pgDiiPvk",
+        "certificate":""
+    },
+    {
+        "id":21,
+        "name":"Multi-Objective Optimization",
+        "title":"Multi-Objective Optimization",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This video from the YouTube channel OpenMDAO explains multi-objective optimization, covering methods to address multiple goals within complex design processes and achieve balanced solutions.",
+        "link":"https://youtu.be/ELLHqHk32II?si=qIWGGikt_9Clgh1b",
+        "certificate":""
+    }
+
+
+
+]

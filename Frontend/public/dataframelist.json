@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"A Framework to Teach Anything",
+        "title":"A Framework to Teach Anything",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master  frameworks with Brandon Stover in the YouTube video 'A Framework to Teach Anything' from Plato University, s to simplify complex concepts.",
+        "link":"https://www.youtube.com/watch?v=gcwNTCs8oGs",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"What is a Framework and Why use Frameworks",
+        "title":"What is a Framework and Why use Frameworks",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master the concept of frameworks and their importance in programming with Sarthak in this YouTube video. Learn how frameworks simplify coding and improve efficiency",
+        "link":"https://www.youtube.com/watch?v=1a5VKUc0AUc",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"What is a Framework? [Definition] Types of Frameworks",
+        "title":"What is a Framework? [Definition] Types of Frameworks",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn what frameworks are and explore their types with John in this YouTube video. Understand how they simplify programming and enhance Python project development.",
+        "link":"https://www.youtube.com/watch?v=JCIuJ_2AAzo",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Packages in Python",
+        "title":"Packages in Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn packages in Python from the basics in this free online training on Great Learning. The Packages in Python course is taught hands-on by experts, covering foundational programming and essential Python packages like TensorFlow, Keras, and spaCy in detail with examples.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/packages-in-python",
+        "certificate":""
+    }
+    
+
+
+]

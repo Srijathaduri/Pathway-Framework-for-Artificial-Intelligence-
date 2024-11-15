@@ -1,0 +1,115 @@
+[
+    {
+        "id":1,
+        "name":"Calculus 1 in This Free 12-Hour Course",
+        "title":"Calculus 1 in This Free 12-Hour Course",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Calculus 1 in this full college course by Dr. Linda Green from the University of North Carolina, available on the freeCodeCamp.org YouTube channel. A perfect resource for mastering the fundamentals of calculus.",
+        "link":"https://www.youtube.com/watch?v=HfACrKJ_Y2w",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Calculus 2 in This Free 12-Hour Course",
+        "title":"Calculus 2 in This Free 12-Hour Course",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Calculus 2 in this full college course by Dr. Linda Green from the University of North Carolina, available on the freeCodeCamp.org YouTube channel",
+        "link":"https://www.youtube.com/watch?v=7gigNsz4Oe8",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Calculus for Data Science & Machine Learning",
+        "title":"Calculus for Data Science & Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn calculus for data science and machine learning with Lazy Programmer Inc. on Udemy, designed to enhance your AI and deep learning skills through Python programming.",
+        "link":"https://www.udemy.com/course/calculus-data-science/?couponCode=IND21PM#instructor-1",
+        "certificate":"Free Online Course (Audit),Paid Certificate Available"
+    },
+    {
+        "id":4,
+        "name":"Calculus for Machine Learning and Data Science",
+        "title":"Calculus for Machine Learning and Data Science",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Calculus for Machine Learning and Data Science  by Luis Serrano is part of the Mathematics for Machine Learning and Data Science Specialization on Class Central.",
+        "link":"https://www.classcentral.com/course/multivariate-calculus-machine-learning-10452",
+        "certificate":"(Free Online Course (Audit),Paid Certificate Available)d"
+    },
+    {
+        "id":5,
+        "name":"Essence of calculus",
+        "title":"Essence of calculus",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Essence of Calculus by 3Blue1Brown on YouTube presents the core concepts of calculus through a visuals-first approach, making complex ideas intuitive and discoverable.",
+        "link":"https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+        "certificate":"Free"
+    },
+    {
+        "id":6,
+        "name":"Calculus Gradient Descent",
+        "title":"Calculus Gradient Descent",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore Calculus Gradient Descent on Khan Academy to understand this essential optimization method in calculus, widely used in machine learning and data science applications.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Calculus+Gradient+Descent&domains=math",
+        "certificate":"Free"
+    },
+    {
+        "id":7,
+        "name":"Calculus  Partial Derivatives",
+        "title":"Calculus  Partial Derivatives",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Calculus Partial Derivatives on Khan Academy to grasp this crucial concept for multivariable functions, widely applied in machine learning and physics.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Partial+Derivatives&domains=math",
+        "certificate":"Free"
+    },
+    {
+        "id":8,
+        "name":"Calculus  Integarls",
+        "title":"Calculus  Integarls",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore Calculus Integrals on Khan Academy to understand fundamental integration concepts essential for advanced mathematical applications in data science and physics.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Integrals&domains=math",
+        "certificate":"Free"
+    }
+    ,
+    {
+        "id":9,
+        "name":"Calculus Chain Rule",
+        "title":"Calculus Chain Rule",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master the Calculus Chain Rule  on Khan Academy to understand how to differentiate composite functions, a vital tool in calculus and machine learning.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Chain+Rule&domains=math",
+        "certificate":"Free"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Calculus Differential Equations",
+        "title":"Calculus Differential Equations",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Differential Equations on Khan Academy to solve real-world problems involving rates of change, a fundamental concept in advanced calculus and physics.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Differential+Equations&domains=math",
+        "certificate":"Free"
+    },
+    {
+        "id":11,
+        "name":"Calculus Limits",
+        "title":"Calculus Limits",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore *Limits* on Khan Academy to understand foundational calculus concepts for analyzing behavior of functions as inputs approach certain values.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Limits&domains=math",
+        "certificate":"Free"
+    }
+
+]

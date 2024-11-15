@@ -1,0 +1,85 @@
+[
+    {
+        "id":1,
+        "name":"Python for Non-Programmers",
+        "title":"Python for Non-Programmers",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Python basics with Nick Walter on LinkedIn Learning, perfect for beginners. Build simple programs and tackle fun challenges to strengthen your skills.",
+        "link":"https://www.linkedin.com/learning/python-for-non-programmers",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Artificial Intelligence with Python",
+        "title":"Artificial Intelligence with Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Artificial Intelligence with Python from scratch in this free, hands-on course by Prof. Mukesh Rao on Great Learning. Dive into neural networks, perceptrons, and loss functions—perfect for beginners!",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/artificial-intelligence-with-python#fpc-section",
+        "certificate":""
+    },
+
+    {
+        "id":3,
+        "name":"Python Fundamentals for Beginners",
+        "title":"Python Fundamentals for Beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master the basics of Python programming in this Great Learning course. Perfect for beginners, this course covers fundamental Python concepts",
+        "link":"https://olympus.mygreatlearning.com/courses/12682",
+        "certificate":"Free Online Course (Audit),Paid Certificate Available"
+    },
+    {
+        "id":4,
+        "name":"Intermediate Python",
+        "title":"Intermediate Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Udacity’s Intermediate Python Nanodegree helps you master Python for tasks like data mining and web development, building a strong project portfolio.",
+        "link":"https://www.classcentral.com/course/multivariate-calculus-machine-learning-10452",
+        "certificate":"Paid"
+    },
+    {
+        "id":5,
+        "name":"Python Essential Traning",
+        "title":"Python Essential Traning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Python fundamentals with Ryan Mitchell on LinkedIn Learning, covering variables, functions, and error handling. Build real-world skills like file handling and creating modules.",
+        "link":"https://www.linkedin.com/learning/python-essential-training-18764650",
+        "certificate":"Free"
+    },
+    {
+        "id":6,
+        "name":"Python Full Course",
+        "title":"Python Full Course",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Python basics with Shradha Khapra in this full course, covering variables and data types. Get started with Python programming through clear, easy-to-follow lectures.",
+        "link":"https://www.khanacademy.org/search?search_again=1&page_search_query=Calculus+Gradient+Descent&domains=math",
+        "certificate":"Free"
+    },
+    {
+        "id":7,
+        "name":"Python Tutorial - Python Full Course for Beginners",
+        "title":"Python Tutorial - Python Full Course for Beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Python for machine learning and web development with Mosh on in Programming with Mosh YouTube Channel . Master essential Python skills to build powerful applications and expand your programming knowledge!",
+        "link":"https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+        "certificate":"Free"
+    },
+    {
+        "id":8,
+        "name":"Python Projects",
+        "title":"Python Projects",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"LinkedIn Learning’s Barron Stone guides you step-by-step to turn your Python ideas into real projects, perfect for anyone ready to create and share their own work!",
+        "link":"https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects",
+        "certificate":""
+    }
+   
+
+]
