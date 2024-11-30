@@ -1,0 +1,148 @@
+[
+    {
+        "id":1,
+        "name":"Machine Learning for absolute beginners",
+        "title":"Machine Learning for absolute beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the basics of machine learning, including key algorithms and practical applications, in this beginner-friendly course on Udemy.",
+        "link":"https://www.udemy.com/course/machine-learning-for-absolute-beginners-level-1/?couponCode=LEARNNOWPLANS",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Introduction to Machine Learning",
+        "title":"Introduction to Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the fundamentals of machine learning, including svm and decision trees to build real-world models using Python on Udacity.",
+        "link":"https://www.udacity.com/course/intro-to-machine-learning--ud120",
+        "certificate":"Free Course without Certificate"
+    },
+    {
+        "id":3,
+        "name":"Machine Learning Foundation:Probability",
+        "title":"Machine Learning Foundation:Probability",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn essential probability concepts like distributions and Bayesian inference to strengthen your machine learning foundation on LinkedIn Learning.",
+        "link":"https://www.linkedin.com/learning/machine-learning-foundations-probability",
+        "certificate":""
+    },
+    {
+        "id":4,
+        "name":"Machine Learning Foundation:Statistics",
+        "title":"Machine Learning Foundation:Statistics",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn key statistical concepts,  to build a strong foundation in machine learning on LinkedIn Learning.",
+        "link":"https://www.linkedin.com/learning/machine-learning-foundations-statistics",
+        "certificate":""
+    }
+    ,
+    {
+        "id":5,
+        "name":"Machine Learning Foundation:Calculus",
+        "title":"Machine Learning Foundation:Calculus",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn key calculus concepts, such as derivatives and gradients, and their application in machine learning algorithms on LinkedIn Learning.",
+        "link":"https://www.linkedin.com/learning/machine-learning-foundations-calculus",
+        "certificate":"Free Course with paid Certificate"
+    },
+    {
+        "id":6,
+        "name":"ML for beginners",
+        "title":"ML for beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the basics of machine learning with SoloLearn's free beginner course. Perfect for anyone starting their AI journey!",
+        "link":"https://www.sololearn.com/en/learn/courses/ml-fundamentals",
+        "certificate":"Free Course with  Certificate"
+    },
+    {
+        "id":7,
+        "name":"Applied Machine Learning:Algorithms",
+        "title":"Applied Machine Learning:Algorithms",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn essential machine learning algorithms and how to apply them to real-world problems on LinkedIn Learning.",
+        "link":"https://www.linkedin.com/learning/applied-machine-learning-algorithms-23750732",
+        "certificate":""
+    },
+    {
+        "id":8,
+        "name":"Supervised Machine Learning:Regression and Classification",
+        "title":"Supervised Machine Learning:Regression and Classification",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Master supervised machine learning techniques, including regression and classification algorithms, in this paid course on Coursera.",
+        "link":"https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction",
+        "certificate":"Paid Certificate"
+    },
+    {
+        "id":9,
+        "name":"Supervised learning with scikit-learn",
+        "title":"Supervised learning with scikit-learn",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the fundamentals of supervised learning and how to implement algorithms using scikit-learn in this free course on DataCamp.",
+        "link":"https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn",
+        "certificate":"Free Course with paid Certificate"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Unsupervised Learning in Python",
+        "title":"Unsupervised Learning in Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the basics of unsupervised learning, including clustering and dimensionality reduction, using Python in this free course on DataCamp.",
+        "link":"https://app.datacamp.com/learn/courses/unsupervised-learning-in-python",
+        "certificate":""
+    }
+    ,
+    {
+        "id":11,
+        "name":"Unsupervised Algorithms in Machine Learning",
+        "title":"Unsupervised Algorithms in Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Explore unsupervised learning techniques, including clustering and dimensionality reduction, in this course on Coursera.",
+        "link":"https://www.coursera.org/learn/unsupervised-algorithms-in-machine-learning",
+        "certificate":"Paid Certificate"
+    },
+    {
+        "id":12,
+        "name":"Complete Machine Learning Project for Absolute Beginners ",
+        "title":"Complete Machine Learning Project for Absolute Beginners ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn to build a machine learning project from scratch with this YouTube tutorial for absolute beginners. Get hands-on experience with basic concepts and practical implementation.",
+        "link":"https://www.youtube.com/watch?v=U9ReNx8E61g",
+        "certificate":""
+    },
+    {
+        "id":13,
+        "name":"Build Your First Machine Learning Project",
+        "title":"Build Your First Machine Learning Project",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn how to build your first machine learning project with this YouTube beginner walkthrough. Gain step-by-step guidance on implementing key machine learning concepts.",
+        "link":"https://www.youtube.com/watch?v=Hr06nSA-qww",
+        "certificate":""
+    },
+    {
+        "id":14,
+        "name":"End-to-End Machine Learning Project",
+        "title":"End-to-End Machine Learning Project",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn to complete an end-to-end machine learning project on YouTube, covering data preparation, model building, and deployment. Gain practical experience in real-world applications.",
+        "link":"https://www.youtube.com/watch?v=o6vbe5G7xNo",
+        "certificate":"Free Course with paid Certificate"
+    }
+   
+
+
+]

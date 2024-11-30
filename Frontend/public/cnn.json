@@ -1,0 +1,116 @@
+[
+    {
+        "id":1,
+        "name":"Convolutional Neural Networks: CNN Basics",
+        "title":"Convolutional Neural Networks: CNN Basics",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":" Learn the basics of Convolutional Neural Networks (CNN) from Kshitiz Verma on YouTube, covering key CNN concepts.",
+        "link":"https://youtube.com/playlist?list=PLxlkzujLkmQ8Ov11Xm-K913C7uNSfr5Rp&si=Szbo5o-FZDrQ7Zse",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Convolutional neural networks ",
+        "title":"Convolutional neural networks ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"LinkedIn Learning course on Convolutional Neural Networks (CNNs) for image classification and object detection.",
+        "link":"https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn",
+        "certificate":"Paid Course"
+    },
+    {
+        "id":3,
+        "name":"Convolutional Neural Network",
+        "title":"Convolutional Neural Network",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":" Explore Convolutional Neural Networks in this YouTube playlist from Learn With Jay, covering essential CNN concepts.",
+        "link":"https://youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu&si=SZklNPock4qUD795",
+        "certificate":""
+    },
+    {
+        "id":4,
+        "name":"CNN architectures - Python Tutorial ",
+        "title":"CNN architectures - Python Tutorial ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This course covers the computational complexity of CNNs and the tuning of hyperparameters like kernel sizes, layers, and pooling.",
+        "link":"https://www.linkedin.com/learning/building-recommender-systems-with-machine-learning-and-ai/cnn-architectures",
+        "certificate":""
+    }
+    ,
+    {
+        "id":5,
+        "name":"Convolutional Neural Networks for Visual Recognition",
+        "title":"Convolutional Neural Networks for Visual Recognition",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Explore deep learning architectures and image classification through this lecture collection from Stanford University School of Engineering on YouTube. Gain insights into cutting-edge research in computer vision.",
+        "link":"https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=M_DAE-dnXnNgnpD_",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)",
+        "title":"Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Course from DeepLearningAI on YouTube, covering Convolutional Neural Networks for image classification and object detection. ",
+        "link":"https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&si=5q-eFU6i6vLDzcA7",
+        "certificate":""
+    },
+    {
+        "id":7,
+        "name":"Convolutional Neural Networks",
+        "title":"Convolutional Neural Networks",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This CNN course by Nathan Klarer on Udacity covers key concepts like image classification, object detection, and transfer learning, with hands-on PyTorch projects. It concludes with a landmark classification project for social media applications.",
+        "link":"https://www.udacity.com/course/convolutional-neural-networks--cd1821",
+        "certificate":""
+    },
+    {
+        "id":8,
+        "name":"Convolutional Neural Networks ",
+        "title":"Convolutional Neural Networks ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn Convolutional Neural Networks (CNNs) with Prof. Mukesh Rao on Great Learning, covering image classification, recognition, and deep learning techniques.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/convolutional-neural-networks",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":9,
+        "name":"Deep Learning: Convolutional Neural Networks in Python",
+        "title":"Deep Learning: Convolutional Neural Networks in Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Offered by DeepLearning.AI, this course covers CNNs for vision and NLP, focusing on TensorFlow, VGG, and model-building techniques.",
+        "link":"https://www.udemy.com/course/deep-learning-convolutional-neural-networks-theano-tensorflow/?couponCode=BFCPSALE24",
+        "certificate":"Paid Course"
+    }
+    ,
+    {
+        "id":10,
+        "name":"The Complete Neural Networks Bootcamp: Theory, Applications",
+        "title":"The Complete Neural Networks Bootcamp: Theory, Applications",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Comprehensive Udemy course on Neural Networks, CNNs, RNNs, Transformers, and PyTorch, with hands-on projects like chatbots and YOLO.",
+        "link":"https://www.udemy.com/course/the-complete-neural-networks-bootcamp-theory-applications/?couponCode=BFCPSALE24",
+        "certificate":"Paid Course"
+    }
+    ,
+    {
+        "id":11,
+        "name":"Convolutional Neural Networks ",
+        "title":"Convolutional Neural Networks ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Taught by Andrew Ng, Kian Katanforoosh, and Younes Bensouda Mourri, this course covers CNNs, TensorFlow, facial recognition, object detection, and deep learning. Gain hands-on skills in building advanced computer vision systems.",
+        "link":"https://www.coursera.org/learn/convolutional-neural-networks",
+        "certificate":""
+    }
+
+]

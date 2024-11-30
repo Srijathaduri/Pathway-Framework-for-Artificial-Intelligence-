@@ -1,5 +1,5 @@
-import React from 'react';
-import Cards from './Cards';
+import React, { useEffect } from 'react';
+import Cards from './cards';
 import list from '../../public/aiprimerlist.json';
 import linearlist from '../../public/linearlist.json';
 import calculaslist from '../../public/calculaslist.json';
@@ -10,15 +10,20 @@ import dataframelist from '../../public/dataframelist.json';
 import pytorchlist from '../../public/pytorchlist.json';
 import sklearnlist from '../../public/sklearnlist.json';
 import TensorFlowlist from '../../public/TensorFlowlist.json';
+import pandas from '../../public/pandas.json';
+import NumPy from '../../public/NumPy.json';
+import Matplotlib from '../../public/Matplotlib.json';
+import probability from '../../public/probability.json';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick"
 import { Link } from 'react-router-dom';
 
 function AIprimer()  {
+  
   const filterData=list.filter((data)=>data.category==="AIprimer");
   var settings = {
-    dots: true,
+    dots: false,
     infinite: false,
     speed: 500,
     slidesToShow: 3,
@@ -31,7 +36,7 @@ function AIprimer()  {
           slidesToShow: 2,
           slidesToScroll: 2,
           infinite: true,
-          dots: true
+          dots: false
         }
       },
       {
@@ -53,9 +58,9 @@ function AIprimer()  {
   };
   return(<>
    <div>
-       <div className=' items-center justify-center text-center p-20'>
-            <h1 className='font-semibold text-2xl md:text-4xl text-white p-5 mt-28'>We're delighted to have you  {" "}<span className=' text-[#BCB88A]'>Here! :)</span></h1>
-            <p className='font-normal text-base text-white mt-2 p-10'> AI Primer is your starting point for an exciting journey into Artificial Intelligence. Explore resources that simplify core concepts and skills, guiding you from foundational ideas to advanced applications. Designed to make AI accessible and engaging, this section empowers learners of all levels to understand and connect with the world of AI. Unlock the possibilities with clear, approachable insights into this transformative technology.</p>
+       <div className=' items-center justify-center text-center '>
+            <h1 className='font-semibold text-2xl md:text-4xl text-white p-5 mt-20'>We're delighted to have you  {" "}<span className=' text-[#BCB88A]'>Here! :)</span></h1>
+            <p className='font-normal text-base text-white mt-2 p-10' > AI Primer is your starting point for an exciting journey into Artificial Intelligence. Explore resources  that simplify core concepts and skills, guiding you from  foundational ideas to advanced applications.Designed to make AI accessible and engaging,this section empowers learners of all levels to understand and connect with the world of AI. Unlock the possibilities with clear, approachable  insights into this transformative technology.</p>
             <Link to="/"><button className="bg-white text-[#011f4b] font-bold px-3 py-2 rounded-md hover:bg-slate-800 duration-300">Back</button></Link>
         </div>
     </div>
@@ -93,6 +98,8 @@ function AIprimer()  {
     ))}
       </Slider>
     </div>
+
+
     <div className='mt-28 items-center justify-center text-center'>
     <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Calculus</h1>
     <p className='font-normal text-base text-white mt-2 p-10'>Calculus helps AI recognize patterns and improve by adjusting predictions step-by-step. It acts like a “taste test,” refining each step for better accuracy. Key ideas like derivatives and integrals make AI learning fast and effective!</p>
@@ -109,6 +116,26 @@ function AIprimer()  {
     ))}
       </Slider>
     </div>
+
+    <div className='mt-28 items-center justify-center text-center'>
+    <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Probability and statistics are essential for AI</h1>
+    <p className='font-normal text-base text-white mt-2 p-10'>Probability and statistics are essential for AI, providing tools to analyze and interpret data. Key concepts include probability distributions like normal and binomial, Bayesian inference for updating predictions, and hypothesis testing for model validation. Regression and classification techniques help AI models predict outcomes by analyzing relationships in data. Statistical learning connects probability theory with machine learning to enable data-driven decisions. These concepts ensure AI models can handle uncertainty, make informed predictions, and generalize well across different scenarios.</p>
+
+      </div>
+  
+    <div>
+    <Slider {...settings}>
+    {probability.map((item)=>(
+      <div className="px-3" key={item.id}> {/* Adjusted padding for better spacing */}
+
+      <Cards item={item} key={item.id}/>
+      </div>
+    ))}
+      </Slider>
+    </div>
+
+
+
     <div className='mt-28 items-center justify-center text-center'>
     <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Discrete Mathematics</h1>
     <p className='font-normal text-base text-white mt-2 p-10'>Discrete Mathematics plays a foundational role in Artificial Intelligence (AI), particularly in areas like logic, algorithms, and optimization. Here are the key concepts from Discrete Mathematics that are crucial for AI</p>
@@ -141,6 +168,7 @@ function AIprimer()  {
     ))}
       </Slider>
     </div>
+    <hr className='line h-1 w-100% bg-white mt-5'/>
     <div className='mt-28 items-center justify-center text-center'>
     <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Python</h1>
     <p className='font-normal text-base text-white mt-2 p-10'>Python for Artificial Intelligence (AI) fun and easy! Python is a powerful programming language that helps computers "think" and "learn" just like humans.
@@ -158,6 +186,7 @@ function AIprimer()  {
     ))}
       </Slider>
     </div>
+    <hr className='line h-1 w-100% bg-white mt-5'/>
     <div className='mt-28 items-center justify-center text-center'>
     <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>DataFrame Work</h1>
     <p className='font-normal text-base text-white mt-2 p-10'>DataFrame is like a super-smart table that helps organize and analyze data, especially in artificial intelligence (AI) and data science. Imagine a spreadsheet with rows and columns where each column holds one type of information (like names, numbers, or dates) and each row holds a set of related data points.
@@ -228,9 +257,70 @@ function AIprimer()  {
     ))}
       </Slider>
     </div>
+    <hr className='line h-1 w-100% bg-white mt-10'/>
+    <div className='mt-28 items-center justify-center text-center'>
+    <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Data analysis</h1>
+    <p className='font-normal text-base text-white mt-2 p-10'>Data analysis in Artificial Intelligence (AI) is the process of turning raw data into valuable information that helps computers make smarter decisions. It begins with collecting and cleaning the data to remove errors and organize it in a useful way. Once the data is ready, it’s explored to find patterns or connections that can help make predictions, like understanding what factors affect plant growth or predicting a person’s preferences. AI models are then built using this data to make decisions or suggestions, such as recommending movies or diagnosing diseases. Ultimately, data analysis is the first step in making AI systems that help people in everyday life.
+    </p>
+    </div>
+    <div>
+    <Slider {...settings}>
+    {dataframelist.map((item)=>(
+      <div className="px-3" key={item.id}> {/* Adjusted padding for better spacing */}
+
+      <Cards item={item} key={item.id}/>
+      </div>
+    ))}
+      </Slider>
+    </div>
+    <div className='mt-28 items-center justify-center text-center'>
+    <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Pandas</h1>
+    <p className='font-normal text-base text-white mt-2 p-10'>Pandas is a powerful Python library widely used in data analysis, especially for Artificial Intelligence (AI) projects. It provides efficient data structures like DataFrames, which make it easy to handle, clean, and manipulate large datasets. With Pandas, you can easily preprocess data by handling missing values, filtering outliers, and merging data from different sources. It also supports statistical analysis and data visualization, helping to uncover patterns that are essential for building accurate AI models. By simplifying these tasks, Pandas accelerates the data analysis process, allowing AI developers to focus on creating and training models.
+    </p>
+    </div>
+    <div>
+    <Slider {...settings}>
+    {pandas.map((item)=>(
+      <div className="px-3" key={item.id}> {/* Adjusted padding for better spacing */}
+
+      <Cards item={item} key={item.id}/>
+      </div>
+    ))}
+      </Slider>
+    </div>
 
 
+    <div className='mt-28 items-center justify-center text-center'>
+    <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>NumPy</h1>
+    <p className='font-normal text-base text-white mt-2 p-10'>NumPy is a core Python library for data analysis in Artificial Intelligence (AI), providing powerful tools for handling numerical data with fast and efficient operations on arrays and matrices. It simplifies tasks like data transformation, feature scaling, and statistical calculations, which are essential for preparing data for AI models. NumPy's ability to process multi-dimensional arrays makes it ideal for handling complex datasets like images or signals, and it serves as the foundation for many AI frameworks like TensorFlow and PyTorch, making it an essential tool for AI-driven data analysis.
+    </p>
+    </div>
+    <div>
+    <Slider {...settings}>
+    {NumPy.map((item)=>(
+      <div className="px-3" key={item.id}> {/* Adjusted padding for better spacing */}
 
+      <Cards item={item} key={item.id}/>
+      </div>
+    ))}
+      </Slider>
+    </div>
+
+    <div className='mt-28 items-center justify-center text-center '>
+    <h1 className='font-semibold text-2xl md:text-4xl text-white p-5'>Matplotlib</h1>
+    <p className='font-normal text-base text-white mt-2 p-10'>Matplotlib is a powerful Python library for data visualization, widely used in data analysis for Artificial Intelligence (AI). It helps transform complex data into clear and insightful visual formats, such as line plots, bar charts, histograms, and scatter plots, making it easier to interpret patterns and trends. In AI, Matplotlib is essential for visualizing datasets, tracking model performance, and debugging by analyzing outputs, enabling a deeper understanding of data and improving the AI development process.
+    </p>
+    </div>
+    <div >
+    <Slider {...settings}>
+    {Matplotlib.map((item)=>(
+      <div className="px-3" key={item.id}> {/* Adjusted padding for better spacing */}
+
+      <Cards item={item} key={item.id}/>
+      </div>
+    ))}
+      </Slider>
+    </div>
 
 
     </div>

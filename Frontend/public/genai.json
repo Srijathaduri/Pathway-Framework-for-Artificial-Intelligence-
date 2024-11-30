@@ -1,0 +1,188 @@
+[
+    {
+        "id":1,
+        "name":"AI Fundamentals: From Basics to Generative AI",
+        "title":"AI Fundamentals: From Basics to Generative AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Explore the fundamentals of probability through this free course on Great Learning Academy. Understand essential concepts like random variables, probability distributions, and real-world applications. Perfect for beginners aiming to build a strong foundation in data science and analytics. Access the course",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/probability",
+        "certificate":"Free Course without  Certificate"
+    },
+
+    {
+        "id":2,
+        "name":"What Is Generative AI?",
+        "title":"What Is Generative AI?",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Discover the transformative power of generative AI with expert Pinar Seyhan Demirdag in this LinkedIn Learning course. Learn its basics, explore content creation techniques, and understand the future, ethical implications, and leadership strategies of this revolutionary technology.",
+        "link":"https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Generative AI for Everyone",
+        "title":"Generative AI for Everyone",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This course covers the fundamentals of Generative AI, its applications in writing, reading, and chatting, and advanced techniques like fine-tuning models. You'll learn how to use AI effectively in business and daily life while addressing ethical concerns. It also explores the potential impacts of AI on society and the workforce.",
+        "link":"https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+        "certificate":"Free Course without  Certificate"
+    },
+    {
+        "id":4,
+        "name":"Prompt Engineering",
+        "title":"Prompt Engineering",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Master the art of effective AI communication on SoloLearn. Learn to craft precise prompts, optimise responses, and unlock AI's full potential through advanced techniques.",
+        "link":"https://www.sololearn.com/en/learn/courses/ai-prompting",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":5,
+        "name":"Generative AI: Introduction to Large Language Models",
+        "title":"Generative AI: Introduction to Large Language Models",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Explore the transformative world of large language models (LLMs) like ChatGPT and DALL-E in this LinkedIn Learning course by Frederick Nwanganga. Learn about generative AI, the evolution of LLMs, and their neural network foundations, including transformer architecture and attention mechanisms. Discover their societal impact and role in the AI ecosystem.",
+        "link":"https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models",
+        "certificate":""
+    },
+
+    {
+        "id":6,
+        "name":"Applications of Generative AI in Learning and Development",
+        "title":"Applications of Generative AI in Learning and Development",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Explore how generative AI can revolutionise learning programs with Dr. Terri Horton in this LinkedIn Learning course. Learn to craft content, design interactive training, and integrate AI tools to maximise engagement and impact in L&D initiatives.",
+        "link":"https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/discover-the-power-of-gen-ai-for-learning-and-development",
+        "certificate":""
+    },
+    {
+        "id":7,
+        "name":"Building an AI-Powered Game",
+        "title":"Building an AI-Powered Game",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"In Building an AI-Powered Game, instructors Niki Birkner and Nick Walton guide you through creating a text-based game using LLMs. Learn to engineer prompts, set up core mechanics, and build a user interface with Gradio. By the end, you'll have a playable, shareable game with safeguards and improved memory tracking.",
+        "link":"https://www.deeplearning.ai/short-courses/building-an-ai-powered-game/",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":8,
+        "name":"Hands-On Projects for OpenAI-Powered Apps",
+        "title":"Hands-On Projects for OpenAI-Powered Apps",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Offered by LinkedIn Learning, this course provides hands-on guidance for developers to dive into building AI-powered applications using the OpenAI platform. With practical projects, you will gain the skills to integrate AI into your applications and enhance your development portfolio. Perfect for developers ready to start building with OpenAI today.",
+        "link":"https://www.linkedin.com/learning/paths/hands-on-projects-for-openai-powered-apps",
+        "certificate":""
+    },{
+        "id":9,
+        "name":"Building AI Applications with Haystack",
+        "title":"Building AI Applications with Haystack",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"In Building AI Applications with Haystack, Tuana Çelik teaches you to use Haystack components and pipelines to build custom AI applications. You'll create a RAG pipeline, news summarization app, and chat agents with function calling. Learn to optimize your development process and manage complex AI projects efficiently.",
+        "link":"https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/",
+        "certificate":"Free Course without  Certificate"
+    },
+
+    {
+        "id":10,
+        "name":"Generative AI Fundamentals",
+        "title":"Generative AI Fundamentals",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Dive into the exciting world of generative AI with this course offered by Udacity, taught by the best—Brian Cruz. Explore fundamental principles of generative AI and its connection to earlier AI innovations. Learn about popular generative models, the development of deep learning models using tools like PyTorch and Hugging Face, and techniques for customizing pre-trained open-source models.",
+        "link":"https://www.udacity.com/course/generative-ai-fundamentals--cd13303",
+        "certificate":"Paid Course with Certificate"
+    },
+    {
+        "id":11,
+        "name":"Ethics in the Age of Generative AI",
+        "title":"Ethics in the Age of Generative AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Offered by LinkedIn Learning, this course by Vilas Dhar helps designers and decision-makers navigate the ethical concerns of generative AI. Learn to apply a three-pillar ethical framework, prepare your teams for ethical AI development, and address stakeholder responsibilities across your organization.",
+        "link":"https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now",
+        "certificate":""
+    },
+    {
+        "id":12,
+        "name":"Learn the Fundamentals of Generative AI for Real-World Applications by Antje Barth, Chris Fregly, and Shelbee Eigenbrode",
+        "title":"Learn the Fundamentals of Generative AI for Real-World Applications by Antje Barth, Chris Fregly, and Shelbee Eigenbrode",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This course by DeepLearning.AI covers the generative AI lifecycle, from data gathering to deployment, focusing on transformer architecture and fine-tuning models. You'll learn practical techniques for training, tuning, and optimizing LLMs using empirical scaling laws. Explore business challenges and opportunities in AI, with a Coursera certificate upon completion.",
+        "link":"https://www.deeplearning.ai/courses/generative-ai-with-llms/",
+        "certificate":"Free Course without  Certificate"
+    },
+    {
+        "id":13,
+        "name":"Bootcamp for Introduction to Artificial Intelligence",
+        "title":"Bootcamp for Introduction to Artificial Intelligence",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This comprehensive bootcamp, created by Sachin Kapale and available on Udemy, introduces AI concepts like algorithms, neural networks, and ethical model selection. Designed for developers, leaders, and users, the course emphasizes the responsible implementation of AI, including continuous data validation, bias mitigation, and practical model testing. Learn to use pre-trained models effectively while ensuring fairness, transparency, and accountability in your AI applications.",
+        "link":"https://www.udemy.com/course/bootcamp-for-introduction-to-artificial-intelligence/",
+        "certificate":"Free Course without  Certificate"
+    },
+
+    {
+        "id":14,
+        "name":"AI Fundamentals: From Basics to Generative AI",
+        "title":"AI Fundamentals: From Basics to Generative AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Master AI basics and explore Generative AI with tools like ChatGPT and Claude. Offered by Udemy and created by Vikram Bandugula, this beginner-friendly course provides practical insights and interactive learning to enhance your productivity and career.",
+        "link":"https://www.udemy.com/course/ai-fundamentals-from-basics-to-generative-ai/",
+        "certificate":"Free Course without  Certificate"
+    },
+    {
+        "id":15,
+        "name":"Introduction to LLMs",
+        "title":"Introduction to LLMs",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Gain a deep understanding of Large Language Models on SoloLearn. Explore their principles, applications, and role in shaping innovative AI solutions through theory and practical insights.",
+        "link":"https://www.sololearn.com/en/learn/courses/ai-prompting",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":16,
+        "name":"Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications",
+        "title":"Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Offered by LinkedIn Learning, this course by Nayan Saxena teaches you to build dynamic multi-agent simulations using LangChain. Learn to create generative agents, equip them with tools, and model complex scenarios, all through hands-on exercises to apply your knowledge in real-world applications.",
+        "link":"https://www.linkedin.com/learning/hands-on-generative-ai-with-multi-agent-langchain-building-real-world-applications/generative-agents-what-and-why",
+        "certificate":""
+    },
+    {
+        "id":17,
+        "name":"Generative AI & Prompt Engineering ",
+        "title":"Generative AI & Prompt Engineering ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Generative AI & Prompt Engineering by UdemyExplore the fundamentals of Generative AI and learn essential prompt engineering techniques in this course by Dr. Giancarlo Crocetti. From basic to advanced strategies like Tree of Thoughts and Self-Consistency, this Udemy course provides practical skills to navigate the AI landscape while focusing on ethical AI use and real-world applications.",
+        "link":"https://www.udemy.com/course/aim810-genai/",
+        "certificate":"Free Course without Certificate"
+    },
+    {
+        "id":18,
+        "name":"AI-Powered A/B Testing",
+        "title":"AI-Powered A/B Testing",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"AI-Powered A/B Testing Master the fundamentals of A/B testing and data analysis on SoloLearn. Learn to design experiments, interpret results, and make data-driven decisions to optimize business outcomes.",
+        "link":"https://www.sololearn.com/en/learn/courses/ab-testing",
+        "certificate":"Free Course with Certificate"
+    }
+ 
+ 
+    
+]

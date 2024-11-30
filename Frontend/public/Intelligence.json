@@ -1,0 +1,180 @@
+[
+    {
+        "id":1,
+        "name":"Ethical AI Foundations",
+        "title":"Ethical AI Foundations",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Master the principles of safe and responsible AI usage with this SoloLearn course. Learn to navigate ethical complexities, mitigate risks, and ensure compliance while working with GenAI systems.",
+        "link":"https://www.sololearn.com/en/learn/courses/gen-ai-safety",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":2,
+        "name":"Think Creatively with AI",
+        "title":"Think Creatively with AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Think Creatively with AI Combine human ingenuity with AI to unlock your creative potential. Explore the four stages of creativity and learn how AI amplifies inspiration, idea refinement, and execution on SoloLearn.",
+        "link":"https://www.sololearn.com/en/learn/courses/creativity-ai",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":3,
+        "name":"Brainstorm with AI",
+        "title":"Brainstorm with AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Unlock your creativity with AI-powered brainstorming techniques! Master four core principles to generate, refine, and pitch innovative ideas. Transform concepts into actionable plans with AI tools in this SoloLearn course.",
+        "link":"https://www.sololearn.com/en/learn/courses/brainstorm-ai",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":4,
+        "name":"Research with AI",
+        "title":"Research with AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Research with AI Streamline your research process with AI on SoloLearn. Learn to define goals, identify sources, and analyze data effectively using AI tools, enhancing accuracy and efficiency.",
+        "link":"https://www.sololearn.com/en/learn/courses/research-ai",
+        "certificate":"Free Course with Certificate"
+    }
+    ,
+    {
+        "id":5,
+        "name":"Social Media Marketing with AI",
+        "title":"Social Media Marketing with AI",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Social Media Marketing with AIHarness AI to elevate your social media strategy on SoloLearn. Identify target audiences, set SMART goals, and create engaging content for platforms like Instagram, Facebook, and YouTube.",
+        "link":"https://www.sololearn.com/en/learn/courses/sm-ai",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":6,
+        "name":"Introduction to Artificial Intelligence",
+        "title":"Introduction to Artificial Intelligence",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This LinkedIn Learning course by Doug Rose introduces AI fundamentals for non-technical professionals. Learn about machine learning, neural networks, and how AI drives innovation in careers and products. Perfect for beginners seeking a high-level overview of AI tools and techniques.",
+        "link":"https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence",
+        "certificate":"Free Course with  Certificate"
+    },
+    {
+        "id":7,
+        "name":"Artificial Intelligence Foundations: Thinking Machines",
+        "title":"Artificial Intelligence Foundations: Thinking Machines",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Explore the evolution and principles of AI with Doug Rose in this LinkedIn Learning course. Learn about AI history, machine learning, robotics, and integrating AI with big data, while avoiding common pitfalls. Ideal for understanding AI's capabilities and implications.",
+        "link":"https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome",
+        "certificate":""
+    },
+    {
+        "id":8,
+        "name":"Programming Foundations: Artificial Intelligence",
+        "title":"Programming Foundations: Artificial Intelligence",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn to merge programming with AI under the guidance of Kesha Williams in this LinkedIn Learning course. Master AI fundamentals like machine learning and computer vision with Python, while addressing ethical AI development and innovative problem-solving.",
+        "link":"https://www.linkedin.com/learning/programming-foundations-artificial-intelligence/introduction-to-artificial-intelligence",
+        "certificate":""
+    },
+    {
+        "id":9,
+        "name":"Advanced Python Projects: Build AI Applications",
+        "title":"Advanced Python Projects: Build AI Applications",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Elevate your Python expertise with hands-on AI projects in this LinkedIn Learning course by Priya Mohan. Build a portfolio of Python-based applications using GitHub Codespaces for seamless cloud development. Ideal for enhancing skills and creating innovative solutions.",
+        "link":"https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications",
+        "certificate":"Free Course with paid Certificate"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Artificial General Intelligence: The Technology, Impact, and Ethics",
+        "title":"Artificial General Intelligence: The Technology, Impact, and Ethics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Understand AGI's potential and challenges with Vilas Dhar in this LinkedIn Learning course. Explore AGI's trajectory, ethical considerations, societal impacts, and its role in amplifying human creativity and potential.",
+        "link":"https://www.linkedin.com/learning/artificial-general-intelligence-the-technology-impact-and-ethics/inventing-tomorrow-agi-and-what-it-means-for-humanity",
+        "certificate":""
+    }
+    ,
+    {
+        "id":11,
+        "name":"Intro to Artificial Intelligence",
+        "title":"Intro to Artificial Intelligence",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Offered by Udacity, this course provides a comprehensive introduction to the fundamentals of Artificial Intelligence, taught by the best. Explore key topics like machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing with guidance from AI pioneers Peter Norvig and Sebastian Thrun, leaders in the field.",
+        "link":"https://www.udacity.com/course/intro-to-artificial-intelligence--cs271",
+        "certificate":""
+    },
+    {
+        "id":12,
+        "name":"Artificial Intelligence ",
+        "title":"Artificial Intelligence ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn Artificial Intelligence from Thad Starner, a pioneer in the field, on Udacity. Gain insights from one of the best minds in AI and explore cutting-edge concepts and applications that shape the future of technology.",
+        "link":"https://www.udacity.com/course/artificial-intelligence--ud954",
+        "certificate":""
+    },
+    {
+        "id":13,
+        "name":"Artificial Intelligence for Robotics",
+        "title":"Artificial Intelligence for Robotics",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Taught by Sebastian Thrun, this Udacity course covers how to program robotic car systems, including planning, search, localization, tracking, and control. It equips learners with essential AI skills for building autonomous robotic systems.",
+        "link":"https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373",
+        "certificate":""
+    }
+    ,
+    {
+        "id":14,
+        "name":"Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka",
+        "title":"Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This Artificial Intelligence Full Course by Edureka on YouTube offers a comprehensive overview of AI, including its history, types, and applications. It covers key machine learning algorithms like linear regression, decision trees, and KNN, alongside deep learning techniques such as CNNs and RNNs. The course also dives into natural language processing, exploring its use cases and key terminologies. With practical demos, it provides hands-on experience in AI and machine learning.",
+        "link":"https://www.youtube.com/watch?v=JMUxmLyrhSk&t=1s&pp=ygUXQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2U%3D",
+        "certificate":""
+    }
+    ,
+    {
+        "id":15,
+        "name":"Artificial Intelligence Full Course 2024 | AI Tutorial For Beginners |AI Full Course| Simplilearn",
+        "title":"Artificial Intelligence Full Course 2024 | AI Tutorial For Beginners |AI Full Course| Simplilearn",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"The Artificial Intelligence Full Course 2024 by Simplilearn on YouTube covers AI fundamentals, machine learning, and deep learning. It explores key algorithms like neural networks, decision trees, and data preprocessing techniques. The course includes Python coding exercises and real-world applications in industries like healthcare and finance. Ethical considerations in AI development are also discussed.",
+        "link":"https://youtu.be/DZAg-VM899c?si=uOZO7BJWS_oFDZ17",
+        "certificate":""
+    }
+    ,
+    {
+        "id":16,
+        "name":"All in One Artificial Intelligence (AI) Full Course 2024 | AI Tutorial for Beginners",
+        "title":"All in One Artificial Intelligence (AI) Full Course 2024 | AI Tutorial for Beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This Artificial Intelligence Full Course video by Great Learning on YouTube covers AI fundamentals, deep learning, neural networks, and popular tools like TensorFlow and Keras. Key topics include computer vision with OpenCV, natural language processing, and generative AI. The course dives into backpropagation, CNNs, and transformers, with real-world case studies. It also explores prompt engineering and LLMs, offering hands-on demos and installation guides.",
+        "link":"https://www.youtube.com/watch?v=T0r3hhFaA1k&pp=ygUsYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2VBSSBGdWxsIENvdXJzZSAgMjAyNCA%3D",
+        "certificate":""
+    },
+    {
+        "id":17,
+        "name":"Artificial Intelligence Full Course 2024 | AI Tutorial For Beginners | AI Full Course| Intellipaat",
+        "title":"Artificial Intelligence Full Course 2024 | AI Tutorial For Beginners | AI Full Course| Intellipaat",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This Artificial Intelligence Full Course 2024 by Intellipaat on YouTube covers essential AI skills, from neural networks to deep learning with TensorFlow and Keras. It also explores machine learning, data handling with NumPy, and AI interview questions. The course offers live sessions, hands-on projects, and mentorship from IIT Madras faculty. Perfect for aspiring AI engineers seeking a comprehensive learning experience.",
+        "link":"https://www.youtube.com/live/MqffbpjhriQ?si=j1oZT6bwTULiu9es",
+        "certificate":""
+    }
+
+
+]

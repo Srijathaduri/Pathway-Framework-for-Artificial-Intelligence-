@@ -9,8 +9,10 @@ function Basicaiprimer() {
       <div className='min-h-screen'>
       <AIprimer/>
       </div>
-      
+      <div className='mt-10'>
       <Footer />
+      </div>
+     
 
     </>
   )

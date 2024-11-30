@@ -1,0 +1,151 @@
+[
+    {
+        "id":1,
+        "name":"Pandas Complete Tutorial for Beginners",
+        "title":"Pandas Complete Tutorial for Beginners ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by WsCube Tech offers a complete Pandas tutorial for beginners. Learn the fundamentals of data manipulation, analysis, and working with DataFrames in Python.",
+        "link":"https://youtube.com/playlist?list=PLjVLYmrlmjGdEE2jFpL71LsVH5QjDP5s4&si=53LjPa8Ls3jKtxil",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Pandas library in Python",
+        "title":"Pandas library in Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by Sundeep Saradhi Kanthety covers the Pandas library in Python, teaching essential data manipulation and analysis techniques. Perfect for data science beginners and enthusiasts.",
+        "link":"https://youtube.com/playlist?list=PLLOxZwkBK52A4HLydOr4S5oX-R8Tiy2Rk&si=BShLyuRBbTk7qGEL",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Python Pandas",
+        "title":"Python Pandas",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this Great Learning course, instructor Bharani Akella teaches Python Pandas for data manipulation and analysis. Learn key concepts like Series, DataFrames, data cleaning, and aggregation to solve real-world problems.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/python-pandas",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":4,
+        "name":"Uses of Pandas",
+        "title":"Uses of Pandas",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this Great Learning course, master Python Pandas for data manipulation and analysis. Learn key concepts like Series, DataFrames, data cleaning, and aggregation to solve real-world problems.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/uses-of-pandas",
+        "certificate":"Free Course with Certificate"
+    }
+    ,
+    
+    {
+        "id":5,
+        "name":"Complete Python Pandas Data Science Tutorial",
+        "title":"Complete Python Pandas Data Science Tutorial",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"n this YouTube tutorial by Keith Galli, learn essential Python Pandas skills for data manipulation and analysis. Perfect for beginners and advanced users alike.",
+        "link":"https://youtu.be/vmEHCJofslg?si=X9eFNPN5uf1d24Vq",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Pandas Tutorial (Data Analysis In Python)",
+        "title":"Pandas Tutorial (Data Analysis In Python)",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" This CodeBasics YouTube tutorial series covers the Pandas library for data science and analytics. It's ideal for those with basic Python knowledge who want to learn Pandas.",
+        "link":"https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=uKBoPP4uTbJC-9vI",
+        "certificate":""
+    },
+    {
+        "id":7,
+        "name":"Introduction to Pandas 2.0",
+        "title":"Introduction to Pandas 2.0",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this Great Learning course, instructor Neha Ojha covers the latest features of Pandas 2.0. Learn how to transition to version 2.0, optimize data manipulation with copy-on-write, and handle missing values for efficient data analysis.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-pandas-2-0",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":8,
+        "name":"Pandas Essential Training",
+        "title":"Pandas Essential Training",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This intermediate LinkedIn Learning course teaches data analysis with pandas in Python. Instructor Jonathan Fernandes covers DataFrames, plotting, indexing, and group by with practical exercises.",
+        "link":"https://www.linkedin.com/learning/pandas-essential-training-24082178/welcome-to-pandas",
+        "certificate":"Free Course with paid Certificate"
+    }
+    ,
+    {
+        "id":9,
+        "name":"Python and Pandas for Data Engineering",
+        "title":"Python and Pandas for Data Engineering",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This Coursera course, part of the *Python, Bash, and SQL Essentials for Data Engineering* Specialization is taught by Kennedy Behrman, Alfredo Deza, and Noah Gift. Gain key skills and earn a career certificate.",
+        "link":"https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke",
+        "certificate":"Paid Course"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)",
+        "title":"Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this YouTube tutorial, Keith Galli teaches Python Pandas for data science. Learn essential techniques for data manipulation, analysis, and working with DataFrames.",
+        "link":"https://youtu.be/2uvysYbKdjM?si=agVKgtbTQkOD3QFH",
+        "certificate":""
+    },
+    {
+        "id":11,
+        "name":"Pandas for Data Science",
+        "title":"Pandas for Data Science",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this Coursera specialization, instructors Genevieve M. Lipp, Nick Eubank, Kyle Bradbury, and Andrew D. Hilton teach Pandas for data cleaning, sorting, and manipulation. Master essential skills to optimize data science workflows.",
+        "link":"https://www.coursera.org/learn/pandas-data-science",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":12,
+        "name":"Advanced Pandas ",
+        "title":"Advanced Pandas ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this LinkedIn Learning course, Brett Vanderblock covers advanced Pandas techniques for data transformation, calculations, and exploratory analysis. Learn essential skills for geospatial and big data processing to elevate your data science journey.",
+        "link":"https://www.linkedin.com/learning/advanced-pandas/take-pandas-to-the-next-level",
+        "certificate":""
+    },
+    {
+        "id":13,
+        "name":"Python and Pandas for Data Engineering",
+        "title":"Introduction to Pandas 2.0Python and Pandas for Data Engineering",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this edX course, Noah Gift and Kennedy Behrman teach Python setup, data manipulation with Pandas, and development using Vim, VS Code, and Git. Learn key skills for efficient data engineering and analysis.",
+        "link":"https://www.edx.org/learn/data-engineering/pragmatic-ai-labs-python-and-pandas-for-data-engineering?index=product&queryID=4ff0bc64f2f84f5c62fde0744f95f8f4&position=1&results_level=first-level-results&term=pandas&objectID=course-9b2a5140-c935-4273-873c-a77f2f8a325b&campaign=Python+and+Pandas+for+Data+Engineering&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+        "certificate":"Free Course with paid Certificate"
+    },
+    {
+        "id":14,
+        "name":"Complete Guide to Python for Data Engineering: From Beginner to Advanced",
+        "title":"Complete Guide to Python for Data Engineering: From Beginner to Advanced",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This LinkedIn Learning course by Deepak Goyal covers Python basics and advanced data engineering skills. Practice with hands-on coding challenges and end with a retail sales analysis project.",
+        "link":"https://www.linkedin.com/learning/complete-guide-to-python-for-data-engineering-from-beginner-to-advanced/introduction-to-pandas",
+        "certificate":"Free Course with paid Certificate"
+    }
+    
+
+    
+
+
+]

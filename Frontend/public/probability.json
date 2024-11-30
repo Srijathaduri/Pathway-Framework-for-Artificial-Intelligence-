@@ -1,0 +1,87 @@
+[
+    {
+        "id":1,
+        "name":"Probability Basics by Great Learning",
+        "title":"Probability Basics by Great Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Explore the fundamentals of probability through this free course on Great Learning Academy. Understand essential concepts like random variables, probability distributions, and real-world applications. Perfect for beginners aiming to build a strong foundation in data science and analytics. Access the course",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/probability",
+        "certificate":"Free Course with Certificate"
+    },
+
+    {
+        "id":2,
+        "name":"Probability and Normal Distribution",
+        "title":"Probability and Normal Distribution",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master probability concepts and delve into normal distribution applications with this comprehensive course. Perfect for beginners in data science and statistics.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-and-normal-distribution",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":3,
+        "name":"Probability for Data Science",
+        "title":"Probability for Data Science",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn probability concepts tailored for data science applications, from fundamentals to advanced techniques. Ideal for aspiring data scientists.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-for-data-science",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":4,
+        "name":"Probability and Probability Distributions for Machine Learning",
+        "title":"Probability and Probability Distributions for Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master the foundations of probability and its applications in machine learning. Learn key distributions critical for ML models.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/probability-and-probability-distributions-for-machine-learning",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":5,
+        "name":"Statistics for Machine Learning",
+        "title":"Statistics for Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Build a strong foundation in statistics tailored for machine learning. Understand key concepts like hypothesis testing, regression, and more.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/probability",
+        "certificate":"Free Course with Certificate"
+    },
+
+    {
+        "id":6,
+        "name":"Statistics for Data Science",
+        "title":"Statistics for Data Science",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master essential statistical concepts like descriptive statistics, probability, and hypothesis testing, crucial for data science.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/statistics-for-data-science",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":7,
+        "name":"Advanced Statistics for Machine Learning",
+        "title":"Advanced Statistics for Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Delve into advanced statistical methods for feature engineering, hypothesis testing, and model optimization.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-statistics-for-machine-learning",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":8,
+        "name":"Importance of Statistics in Machine Learning",
+        "title":"Importance of Statistics in Machine Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Understand the critical role of statistics in building, validating, and optimizing machine learning models. ",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/importance-of-statistics-in-machine-learning",
+        "certificate":"Free Course with Certificate"
+    }
+ 
+ 
+    
+]

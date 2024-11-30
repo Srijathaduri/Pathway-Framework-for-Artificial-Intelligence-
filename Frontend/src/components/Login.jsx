@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
-
+import axios from 'axios';
+import toast from 'react-hot-toast';
 function Login() {
   const {
     register,
@@ -11,8 +12,39 @@ function Login() {
 
   const navigate = useNavigate();
 
-  const onSubmit = (data) => console.log(data);
+  const onSubmit = async (data) => {
+    const userInfo = {
+      email: data.email,
+      password: data.password,
+    };
+  
+    console.log("User Info: ", userInfo); // Debugging purpose
+  
+    await axios
+      .post("http://localhost:4001/user/login", userInfo)
+      .then((res) => {
+        console.log(res.data);
+        if (res.status === 200) {  // Successful login (status 200)
+          toast.success('Loggedin in Successfully');
+          document.getElementById("my_modal_3").close();
+          setTimeout(()=>{
+            window.location.reload();
+            localStorage.setItem("Users", JSON.stringify(res.data.user));
 
+          },1000);
+
+        }
+
+      })
+      .catch((error) => {
+        if (error.response) {
+          console.log(error); // Logs the entire error object
+          toast.error("Error: " + error.response.data.message);
+          setTimeout(()=>{},1000);
+        }
+      });
+  };
+  
   const handleCloseModal = () => {
     const modal = document.getElementById("my_modal_3");
     if (modal) modal.close(); // Close the modal
@@ -24,12 +56,12 @@ function Login() {
       <div>
         <dialog id="my_modal_3" className="modal">
           <div className="modal-box">
-            <form onSubmit={handleSubmit(onSubmit)}>
+            <form onSubmit={handleSubmit(onSubmit)} method="dialog">
               {/* Close modal button */}
               <button
                 type="button"
                 className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2 outline-none text-white"
-                onClick={handleCloseModal}
+                onClick={()=>document.getElementById("my_modal_3").close()}
               >
                 ✕
               </button>

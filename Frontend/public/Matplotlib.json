@@ -1,0 +1,148 @@
+[
+    {
+        "id":1,
+        "name":"Matplotlib Tutorial for Beginner to Advanced",
+        "title":"Matplotlib Tutorial for Beginner to Advanced",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by WsCube Tech covers Matplotlib from beginner to advanced levels, focusing on Python and machine learning. Perfect for mastering data visualization techniques.",
+        "link":"https://youtube.com/playlist?list=PLjVLYmrlmjGcC0B_FP3bkJ-JIPkV5GuZR&si=HU_mIwk_aR5GDQ71",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Matplotlib library in Python programming",
+        "title":"Matplotlib library in Python programming",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by Sundeep Saradhi Kanthety explores the Matplotlib library in Python programming. Learn to create stunning visualizations and master data representation techniques.",
+        "link":"https://youtube.com/playlist?list=PLLOxZwkBK52BQjsMFcnOB0wjzAUneSNfI&si=YqjogluFZIYnq136",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Matplotlib tutorial",
+        "title":"Matplotlib tutorial",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by codebasics offers a comprehensive Matplotlib tutorial. Perfect for learning data visualization techniques step-by-step in Python.",
+        "link":"https://youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl&si=AR0g7u3Q6AC04mHr",
+        "certificate":""
+    },
+    {
+        "id":4,
+        "name":"Matplotlib Tutorials ",
+        "title":"Matplotlib Tutorials ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by Corey Schafer provides detailed Matplotlib tutorials. Ideal for mastering data visualization techniques in Python.",
+        "link":"https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=5RW5B-JgLXtS1FvC",
+        "certificate":""
+    }
+    ,
+    {
+        "id":5,
+        "name":"Matplotlib | Python",
+        "title":"Matplotlib | Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by Amulya's Academy offers a step-by-step guide to Matplotlib in Python. Perfect for beginners to learn data visualization effectively.",
+        "link":"https://youtube.com/playlist?list=PLzgPDYo_3xulakyk7r5h_djrWq1gjD6hm&si=ydeUGj_TL3Olfz1v",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Plots Creation using Matplotlib Python",
+        "title":"Plots Creation using Matplotlib Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This Coursera course by Omnya Khaled teaches you to create and customize plots using Matplotlib and Pandas in Python. Learn to plot, adjust visuals, and save graphs as images.",
+        "link":"https://www.coursera.org/projects/plots-creation-using-matplotlib-python",
+        "certificate":"Free Course"
+    },
+    {
+        "id":7,
+        "name":"Python for Data Visualization: Matplotlib & Seaborn",
+        "title":"Python for Data Visualization: Matplotlib & Seaborn",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn data visualization best practices using Matplotlib and Seaborn, including various chart types and effective storytelling techniques. Instructors Maven Analytics and Chris Bruehl guide you through essential visualization tools on LinkedIn Learning.",
+        "link":"https://www.coursera.org/projects/python-for-data-visualization-seaborn",
+        "certificate":"Free course"
+    },
+    {
+        "id":8,
+        "name":"Data Visualization with Matplotlib and Seaborn",
+        "title":"Data Visualization with Matplotlib and Seaborn",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This course by Ryan Ahmed, provided by Coursera, teaches Python programming fundamentals for data visualization, focusing on Matplotlib and Seaborn. Learn to plot histograms, scatterplots, line plots, and more.",
+        "link":"https://www.linkedin.com/learning/data-visualization-with-matplotlib-and-seaborn/course-structure-outline",
+        "certificate":"Free course"
+    },
+    {
+        "id":9,
+        "name":"NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities",
+        "title":"NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this LinkedIn Learning course, Terezija Semenski covers advanced NumPy features and Matplotlib for plotting. Learn linear algebra, universal functions, and data visualization techniques for data science.",
+        "link":"https://www.linkedin.com/learning/numpy-essential-training-2-matplotlib-and-linear-algebra-capabilities/introduction",
+        "certificate":"paid Certificate"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Python Matplotlib Full Course",
+        "title":"Python Matplotlib Full Course",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This Python Matplotlib full course covers various plotting techniques, helping you master data visualization in Python. Available on Amit Thinks' YouTube channel.",
+        "link":"https://youtube.com/playlist?list=PLSwH4ViBDl2Tau2B--9cJB6P5394XN42O&si=qsJYuH-L0PkN4nqD",
+        "certificate":""
+    },
+    {
+        "id":11,
+        "name":"Python for Data Science and Machine Learning Essential Training Part 1",
+        "title":"Python for Data Science and Machine Learning Essential Training Part 1",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Master Python for data science and machine learning in this hands-on course by Lillian Pierson. Learn to clean, analyze, and visualize data with real-world projects, available on LinkedIn Learning.",
+        "link":"https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?resume=false",
+        "certificate":"Free course"
+    },
+    {
+        "id":12,
+        "name":"Data Science Foundations: Python Scientific Stack",
+        "title":" Data Science Foundations: Python Scientific Stack",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Miki Tebeka explores key libraries like NumPy, Pandas, and Matplotlib in this course. The course is available on LinkedIn Learning with practical experience through GitHub Codespaces.",
+        "link":"https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-17064277/the-python-scientific-stack",
+        "certificate":"Free course"
+    },
+    {
+        "id":13,
+        "name":"Python Matplotlib",
+        "title":"Python Matplotlib",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn to create various plots and visualizations using Matplotlib in this course by Mr. Bharani Akella, provided by Great Learning. Gain hands-on experience working with data and NumPy arrays for effective data visualization.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/python-matplotlib",
+        "certificate":"Free Course with Certificate"
+    }
+    ,
+    {
+        "id":14,
+        "name":"Select Topics in Python: Matplotlib ",
+        "title":"Select Topics in Python: Matplotlib ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This course by Patrick Ester, provided by Coursera, covers creating, styling, and customizing charts and plots using Matplotlib in Jupyter notebooks. Learn to visualize data with various types of plots.",
+        "link":"https://www.coursera.org/learn/select-topics-in-python-matplotlib",
+        "certificate":"Free Course with  Certificate"
+    }
+    
+
+
+]

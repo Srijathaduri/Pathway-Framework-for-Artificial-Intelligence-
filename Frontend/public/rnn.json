@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Recurrent Neural Networks (RNNs),",
+        "title":"Recurrent Neural Networks (RNNs),",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This YouTube video from StatQuest with Josh Starmer clearly explains Recurrent Neural Networks (RNNs) and their use in processing sequential data.",
+        "link":"https://www.youtube.com/watch?v=AsNTP8Kwu80",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"Recurrent Neural Network",
+        "title":"Recurrent Neural Network",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This YouTube playlist by Learn With Jay covers Recurrent Neural Networks (RNNs), focusing on their applications in sequential data processing.",
+        "link":"https://youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr&si=4ANxnBnFKoM4hxjk",
+        "certificate":""
+    },
+    {
+        "id":3,
+        "name":"Intro to recurrent neural networks (RNNs) - Python Tutorial",
+        "title":"Intro to recurrent neural networks (RNNs) - Python Tutorial",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"This course on LinkedIn Learning explains Recurrent Neural Networks (RNNs), used for processing sequential data like time-series data, stock predictions, and sensor logs.",
+        "link":"https://www.linkedin.com/learning/building-recommender-systems-with-machine-learning-and-ai/intro-to-recurrent-neural-networks-rnns?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning",
+        "certificate":"Paid Certificate"
+    },
+    {
+        "id":4,
+        "name":"Recurrent neural networks ",
+        "title":"Recurrent neural networks ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":" This course on LinkedIn Learning explains Recurrent Neural Networks (RNNs) and their use cases, including processing sequential data like text, language translation, and time-series data.",
+        "link":"https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/recurrent-neural-networks-rnn?trk=learning-serp_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning",
+        "certificate":"Paid Certificate"
+    }
+    ,
+    {
+        "id":5,
+        "name":"Lecture 10 | Recurrent Neural Networks",
+        "title":"Lecture 10 | Recurrent Neural Networks ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"In this YouTube lecture, Stanford University School of Engineering explores Recurrent Neural Networks (RNNs) for sequence data, including language modeling, image captioning, and incorporating soft spatial attention.",
+        "link":"https://www.youtube.com/watch?v=6niqTuYFZLQ",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Getting started with RNNs",
+        "title":"Building a neural network FROM SCRATCH ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn RNN architecture, GRUs, LSTMs, and word embeddings with Kumaran Ponnambalam on LinkedIn Learning. Perfect for understanding AI sequence modeling.",
+        "link":"https://www.linkedin.com/learning/recurrent-neural-networks/getting-started-with-rnns",
+        "certificate":"Paid Certificate"
+    },
+    {
+        "id":7,
+        "name":"RNNs and Transformers",
+        "title":"RNNs and Transformers",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Master neural networks, RNNs, Transformers, GPT-3, and BERT in this Udacity course. Dive into backpropagation, LSTMs, Word2Vec, and hyperparameter tuning for AI expertise.",
+        "link":"https://www.udacity.com/course/rnns-and-transformers--cd1822",
+        "certificate":"Paid Course andCertificate"
+    }
+]

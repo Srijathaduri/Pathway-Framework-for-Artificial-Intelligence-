@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"All about Neural Network",
+        "title":"All about Neural Network",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the essentials of neural networks with Udemy's Simplified: All About Neural Network course. Understand core concepts and practical applications in an easy-to-follow format.",
+        "link":"https://www.udemy.com/course/simplified-all-about-neural-networks/?couponCode=BFCPSALE24",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":2,
+        "name":"Introduction to Neural Network and Deep Learning",
+        "title":"Introduction to Neural Network and Deep Learning",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn about neural networks and deep learning with Great Learning's free course. Understand key concepts like activation functions, backpropagation, and optimization in AI.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-neural-networks-and-deep-learning",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":3,
+        "name":"Artifical Intelligence Foundation:Neural Network",
+        "title":"Artifical Intelligence Foundation:Neural Network",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn the fundamentals of neural networks with LinkedIn Learning's Artificial Intelligence Foundation: Neural Network course",
+        "link":"https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":4,
+        "name":"Neural Network in Python:Deep Learning for Beginners",
+        "title":"Neural Network in Python:Deep Learning for Beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn deep learning and neural networks with Udemy’s Neural Network in Python: Deep Learning for Beginners course",
+        "link":"https://www.udemy.com/course/neural-network-understanding-and-building-an-ann-in-python/?couponCode=BFCPSALE24",
+        "certificate":"Paid Certificate"
+    }
+    ,
+    {
+        "id":5,
+        "name":"Training Neural Networks in Python",
+        "title":"Training Neural Networks in Python",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn how to train neural networks using Python with LinkedIn Learning's course. Understand key techniques for building and optimizing models in deep learning.",
+        "link":"https://www.linkedin.com/learning/training-neural-networks-in-python-17058600",
+        "certificate":""
+    },
+    {
+        "id":6,
+        "name":"Building a neural network FROM SCRATCH ",
+        "title":"Building a neural network FROM SCRATCH ",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn how to build a neural network from scratch on YouTube, covering the fundamentals of architecture, forward propagation, and backpropagation.",
+        "link":"https://www.youtube.com/watch?v=w8yWXqWQYmU",
+        "certificate":"Free Course with  Certificate"
+    },
+    {
+        "id":7,
+        "name":"Build a Neural Network from Scratch",
+        "title":"Build a Neural Network from Scratch",
+        "image":"AI-aspirent.avif",
+        "category":"AIinsites",
+        "description":"Learn how to build a neural network from scratch on YouTube, covering key concepts and gain practical experience",
+        "link":"https://www.youtube.com/watch?v=cAkMcPfY_Ns",
+        "certificate":""
+    }
+]

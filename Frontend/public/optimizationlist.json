@@ -205,7 +205,7 @@
     }
     ,
     {
-        "id":19,
+        "id":21,
         "name":" Adam Optimization Algorithm (C2W2L08)",
         "title":" Adam Optimization Algorithm (C2W2L08)",
         "image":"AI-aspirent.avif",
@@ -215,7 +215,7 @@
         "certificate":""
     },
     {
-        "id":20,
+        "id":22,
         "name":"Optimization Algorithms",
         "title":"Optimization Algorithms",
         "image":"AI-aspirent.avif",
@@ -225,7 +225,7 @@
         "certificate":""
     },
     {
-        "id":21,
+        "id":23,
         "name":"Multi-Objective Optimization",
         "title":"Multi-Objective Optimization",
         "image":"AI-aspirent.avif",
@@ -235,7 +235,7 @@
         "certificate":""
     },
     {
-        "id":21,
+        "id":24,
         "name":"Multi-Objective Optimization",
         "title":"Multi-Objective Optimization",
         "image":"AI-aspirent.avif",
@@ -245,7 +245,7 @@
         "certificate":""
     },
     {
-        "id":21,
+        "id":25,
         "name":"Multi-Objective Optimization",
         "title":"Multi-Objective Optimization",
         "image":"AI-aspirent.avif",

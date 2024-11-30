@@ -3,7 +3,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick"
 import  list  from "../../public/list.json";
-import Cards from './Cards';
+import Cards from './cards';
 function AIHub() {
   const filterData=list.filter((data)=>data.category==="AIHub");
   var settings = {
@@ -44,7 +44,7 @@ function AIHub() {
     <div className='text-white font-semibold max-w-screen-2xl container mx-auto md:px-20 px-4'>
       <div>
       <h1 className='font-bold text-base pb-2'>AI Hub</h1>
-      <p className='font-normal text-base pb-2'>Dive into a mix of basics, real-life examples, and pathways for growth in AI. Whether you’re curious about how AI works, where it’s used in everyday life, or how to build a future in the field, AIHub has something for everyone—simple, clear, and inspiring for all ages.</p>
+      <p className='font-normal text-base pb-2'>Dive into a mix of basics, real-life examples, and pathways for growth in AI. Whether you’re curious about how AI works, where it’s used in everyday life, or how to build a future in the field, AIHub has oooooo something for everyone—simple, clear, and inspiring for all ages.</p>
       </div>
   
     <div>

@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "name":"Python NumPy Tutorial for Beginners",
+        "title":"Python NumPy Tutorial for Beginners",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This freeCodeCamp.org YouTube tutorial introduces Python NumPy, covering arrays, mathematical functions, and data manipulation. Ideal for beginners starting with data science and Python.",
+        "link":"https://youtu.be/QUT1VHiLmmI?si=s4B4Qv9a8gXEyA0n",
+        "certificate":""
+    },
+    {
+        "id":2,
+        "name":"NumPy Tutorial",
+        "title":" NumPy Tutorial",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this Great Learning course, Bharani Akella teaches Numpy basics, including mathematical functions, array manipulations, and matrix calculations. Ideal for boosting your Python skills for AI and machine learning.",
+        "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/numpy-tutorial",
+        "certificate":"Free Course with Certificate"
+    },
+    {
+        "id":3,
+        "name":"NumPy library in Python programming",
+        "title":"NumPy library in Python programming",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by Sundeep Saradhi Kanthety covers the essentials of the NumPy library in Python programming. Learn how to efficiently work with arrays and perform mathematical operations.",
+        "link":"https://youtube.com/playlist?list=PLLOxZwkBK52BS9QmfiuJAGSoVikI5-1hN&si=nkNH4HdO9eX-6vCw",
+        "certificate":""
+    },
+    {
+        "id":4,
+        "name":"Data Analysis & Visualisation for Beginners (Pandas , Numpy , Matplotlib , Seaborn)",
+        "title":"Uses of Pandas",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"Learn data analysis and visualization with Pandas, NumPy, Matplotlib, and Seaborn in this beginner-friendly YouTube playlist by Akshit Madan. Ideal for mastering essential data science skills.",
+        "link":"https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=9HMZn_i1KKFFhX_Z",
+        "certificate":""
+    }
+    ,
+    {
+        "id":5,
+        "name":"NumPy Essential Training: 1 Foundations of NumPy",
+        "title":"NumPy Essential Training: 1 Foundations of NumPy",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" In this LinkedIn Learning course, Terezija Semenski teaches NumPy essentials, covering array manipulation, indexing, and math functions—perfect for data science and machine learning foundations.",
+        "link":"https://www.linkedin.com/learning/numpy-essential-training-1-foundations-of-numpy/take-advantage-of-the-power-of-numpy",
+        "certificate":"Free Course with paid Certificate"
+    },
+    {
+        "id":6,
+        "name":"Data Science with NumPy, Sets, and Dictionaries",
+        "title":"Data Science with NumPy, Sets, and Dictionaries",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" In this Coursera course taught by Genevieve M. Lipp, Nick Eubank, Kyle Bradbury, and Andrew D. Hilton., you'll gain skills in data analysis, Python programming, Numpy, object-oriented programming (OOP), and working with arrays, all essential for effective data science.",
+        "link":"https://www.coursera.org/learn/numpy-data-science",
+        "certificate":"Free Course with  Certificate"
+    },
+    {
+        "id":7,
+        "name":"NumPy Tutorial for Beginner to Advanced  ",
+        "title":"NumPy Tutorial for Beginner to Advanced  ",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"This YouTube playlist by WsCube Tech covers NumPy from beginner to advanced levels. Learn essential concepts, array manipulations, and advanced techniques for data science and Python.",
+        "link":"https://youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W&si=EsyL6_hKybQfC6GH",
+        "certificate":""
+    },
+    {
+        "id":8,
+        "name":"Numpy Mastery Course 2023 (Beginner To Advanced)",
+        "title":"Numpy Mastery Course 2023 (Beginner To Advanced)",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":" This YouTube playlist by WsCube Tech offers a comprehensive NumPy Mastery course, covering everything from beginner to advanced concepts. Ideal for mastering NumPy for data science and Python programming in English.",
+        "link":"https://youtube.com/playlist?list=PLc20sA5NNOvozFyzAoKqc-_qLluA-IeYd&si=DyOiXy2dNjNvLPBw",
+        "certificate":""
+    },
+    {
+        "id":9,
+        "name":"NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities",
+        "title":"NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this LinkedIn Learning course, Terezija Semenski covers advanced NumPy and Matplotlib features, including plotting, linear algebra, and mathematical functions. Learn key techniques for data science and machine learning applications.",
+        "link":"https://www.linkedin.com/learning/numpy-essential-training-2-matplotlib-and-linear-algebra-capabilities/introduction",
+        "certificate":"Free Course with paid Certificate"
+    }
+    ,
+    {
+        "id":10,
+        "name":"Python for Data Engineering: from Beginner to Advanced",
+        "title":"Python for Data Engineering: from Beginner to Advanced",
+        "image":"AI-aspirent.avif",
+        "category":"AIprimer",
+        "description":"In this LinkedIn Learning course, Deepak Goyal teaches Python for data engineering, from basics to advanced topics. Practice through interactive challenges and complete a capstone project on retail sales analysis.",
+        "link":"https://www.linkedin.com/learning/python-for-data-engineering-from-beginner-to-advanced/welcome-to-the-course",
+        "certificate":"Free Course with paid Certificate"
+    }
+    
+
+
+]
