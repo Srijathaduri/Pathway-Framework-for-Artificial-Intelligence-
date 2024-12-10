@@ -35,7 +35,7 @@
         "title":"Mathematics for AI & ML Developers",
         "image":"AI-aspirent.avif",
         "category":"AIprimer",
-        "description":":Learn foundational math for machine learning with Luis Serrano from DeepLearning.AI, applying concepts through Python programming.",
+        "description":"Learn foundational math for machine learning with Luis Serrano from DeepLearning.AI, applying concepts through Python programming.",
         "link":"https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/",
         "certificate":"Paid"
     }

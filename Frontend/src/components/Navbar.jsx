@@ -40,8 +40,8 @@ function Navbar() {
     <li><a href='/' className=' text-white'>Home</a></li>
     <li><a href='/AIprimer' className=' text-white'>AI Primer</a></li>
     <li><a href='/insites' className=' text-white'>AI Insights</a></li>
-    <li><a href="/contactas" className=' text-white'>Contact As</a></li>
-    <li><a href="/aboutus" className=' text-white'>About </a></li>
+    <li><a href="/contactas" className=' text-white'>Contact Us</a></li>
+    <li><a href="/aboutus" className=' text-white'>About Us</a></li>
     
   </>);//manage states like scrolling 
   return (

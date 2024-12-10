@@ -46,7 +46,7 @@
         "title":"NumPy Essential Training: 1 Foundations of NumPy",
         "image":"AI-aspirent.avif",
         "category":"AIprimer",
-        "description":" In this LinkedIn Learning course, Terezija Semenski teaches NumPy essentials, covering array manipulation, indexing, and math functions—perfect for data science and machine learning foundations.",
+        "description":"In this LinkedIn Learning course, Terezija Semenski teaches NumPy essentials, covering array manipulation, indexing, and math functions—perfect for data science and machine learning foundations.",
         "link":"https://www.linkedin.com/learning/numpy-essential-training-1-foundations-of-numpy/take-advantage-of-the-power-of-numpy",
         "certificate":"Free Course with paid Certificate"
     },
@@ -56,7 +56,7 @@
         "title":"Data Science with NumPy, Sets, and Dictionaries",
         "image":"AI-aspirent.avif",
         "category":"AIprimer",
-        "description":" In this Coursera course taught by Genevieve M. Lipp, Nick Eubank, Kyle Bradbury, and Andrew D. Hilton., you'll gain skills in data analysis, Python programming, Numpy, object-oriented programming (OOP), and working with arrays, all essential for effective data science.",
+        "description":"In this Coursera course taught by Genevieve M. Lipp, Nick Eubank, Kyle Bradbury, and Andrew D. Hilton., you'll gain skills in data analysis, Python programming, Numpy, object-oriented programming (OOP), and working with arrays, all essential for effective data science.",
         "link":"https://www.coursera.org/learn/numpy-data-science",
         "certificate":"Free Course with  Certificate"
     },
@@ -76,7 +76,7 @@
         "title":"Numpy Mastery Course 2023 (Beginner To Advanced)",
         "image":"AI-aspirent.avif",
         "category":"AIprimer",
-        "description":" This YouTube playlist by WsCube Tech offers a comprehensive NumPy Mastery course, covering everything from beginner to advanced concepts. Ideal for mastering NumPy for data science and Python programming in English.",
+        "description":"This YouTube playlist by WsCube Tech offers a comprehensive NumPy Mastery course, covering everything from beginner to advanced concepts. Ideal for mastering NumPy for data science and Python programming in English.",
         "link":"https://youtube.com/playlist?list=PLc20sA5NNOvozFyzAoKqc-_qLluA-IeYd&si=DyOiXy2dNjNvLPBw",
         "certificate":""
     },
@@ -90,6 +90,8 @@
         "link":"https://www.linkedin.com/learning/numpy-essential-training-2-matplotlib-and-linear-algebra-capabilities/introduction",
         "certificate":"Free Course with paid Certificate"
     }
+
+    
     ,
     {
         "id":10,

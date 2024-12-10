@@ -7,24 +7,29 @@ import userRoute from "./route/user.route.js";
 
 dotenv.config();
 const app = express();
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 4001;
 const URI = process.env.MongoDBURI;
 
-// Middleware
-// Middleware
 app.use(cors());
 app.use(express.json());
 
 // Connect to MongoDB
 mongoose
   .connect(URI)
-  .then(() => console.log("Connected to mongoDB"))
-  .catch((error) => console.log("Error: ", error));
+  .then(() => console.log("Connected to MongoDB"))
+  .catch((error) => console.log("Error connecting to MongoDB: ", error));
 
 // Define routes
 app.use("/anvesh", anveshRoute);
 app.use("/user", userRoute);
+ // Add contact route
 
+// Fallback for unsupported routes
+app.all('*', (req, res) => {
+  res.status(404).send("Route not found");
+});
+
+// Start the server
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
