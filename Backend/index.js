@@ -10,24 +10,30 @@ const app = express();
 const PORT = process.env.PORT || 4001;
 const URI = process.env.MongoDBURI;
 
-const allowedOrigins = [process.env.FRONTEND_URL || 'http://localhost:5173'];
+// CORS configuration to allow your frontend's origin
+const allowedOrigins = [
+  'http://localhost:5173',  // Local development frontend URL
+  process.env.FRONTEND_URL || 'http://localhost:5173',  // Environment variable for production or staging
+];
+
 app.use(cors({
   origin: (origin, callback) => {
-    // Allow requests from allowed origins or undefined (e.g., Postman)
+    // If no origin is present (like in Postman or server-side requests), allow the request
     if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
+      callback(null, true);  // Allow the request
     } else {
-      callback(new Error("Not allowed by CORS"));
+      callback(new Error("Not allowed by CORS"));  // Reject the request
     }
   },
 }));
+
 app.use(express.json());
 
-// Connect to MongoDB without deprecated options
+// Connect to MongoDB
 mongoose
   .connect(URI)
   .then(() => console.log("Connected to MongoDB"))
-  .catch((error) => console.error("Error connecting to MongoDB:", error));
+  .catch((error) => console.log("Error connecting to MongoDB: ", error));
 
 // Define routes
 app.use("/anvesh", anveshRoute);
