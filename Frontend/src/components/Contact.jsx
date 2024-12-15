@@ -4,6 +4,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import { useForm } from "react-hook-form";
 
+
 function Contact() {
   const navigate = useNavigate();
   const [isSubmitting, setIsSubmitting] = useState(false); // Manage button state

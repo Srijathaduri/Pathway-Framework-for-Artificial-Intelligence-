@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import axios from 'axios';
 import toast from 'react-hot-toast';
+const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:4001";
 function Login() {
   const {
     register,
@@ -17,34 +18,30 @@ function Login() {
       email: data.email,
       password: data.password,
     };
-  
+
     console.log("User Info: ", userInfo); // Debugging purpose
-  
-    await axios
-      .post("http://localhost:4001/user/login", userInfo)
-      .then((res) => {
-        console.log(res.data);
-        if (res.status === 200) {  // Successful login (status 200)
-          toast.success('Loggedin in Successfully');
-          document.getElementById("my_modal_3").close();
-          setTimeout(()=>{
-            window.location.reload();
-            localStorage.setItem("Users", JSON.stringify(res.data.user));
 
-          },1000);
+    try {
+      const res = await axios.post(`${apiUrl}/user/login`, userInfo);
+      console.log(res.data);
 
-        }
-
-      })
-      .catch((error) => {
-        if (error.response) {
-          console.log(error); // Logs the entire error object
-          toast.error("Error: " + error.response.data.message);
-          setTimeout(()=>{},1000);
-        }
-      });
+      if (res.status === 200) {
+        toast.success('Logged in Successfully');
+        const modal = document.getElementById("my_modal_3");
+        if (modal) modal.close(); // Close the modal safely
+        localStorage.setItem("Users", JSON.stringify(res.data.user));
+        setTimeout(() => {
+          window.location.reload();
+        }, 1000);
+      }
+    } catch (error) {
+      if (error.response) {
+        console.error(error);
+        toast.error("Error: " + error.response.data.message);
+      }
+    }
   };
-  
+
   const handleCloseModal = () => {
     const modal = document.getElementById("my_modal_3");
     if (modal) modal.close(); // Close the modal

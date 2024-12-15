@@ -24,6 +24,7 @@ const App = () => {
         <Route path="/contactas" element={<ContactUs/>}/>
         <Route path="/aboutus" element={<Aboutas/>}/>
         <Route path="/insites" element={authUser? <Insites/>:<Navigate to ="/signup"/>}/>
+
       </Routes>
       <Toaster />
     </div>

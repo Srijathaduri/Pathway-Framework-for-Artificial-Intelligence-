@@ -4,6 +4,7 @@ import Login from './login';
 import axios from 'axios';
 import toast from 'react-hot-toast';
 import { useForm } from 'react-hook-form';
+const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:4001";  // Updated
 function Signup() {
    const location=useLocation()
    const navigate=useNavigate()
@@ -22,20 +23,23 @@ function Signup() {
         };
         
         
-    await  axios.post("http://localhost:4001/user/signup",userInfo)
-    .then((res)=>{
-        console.log(res.data);
-        if(res.data){
-            toast.success('Signup Successfully');
-            navigate(from,{replace:true});
+        try {
+            const res = await axios.post(`${apiUrl}/user/signup`, userInfo);
+            console.log(res.data);
+
+            if (res.data) {
+                toast.success('Signup Successfully');
+                localStorage.setItem("Users", JSON.stringify(res.data.user));
+                navigate(from, { replace: true });
+            }
+        } catch (error) {
+            if (error.response) {
+                console.error(error);
+                toast.error("Error: " + error.response.data.message);
+            } else {
+                toast.error("Something went wrong. Please try again.");
+            }
         }
-        localStorage.setItem("Users",JSON.stringify(res.data.user))
-    }).catch((error)=>{
-        if(error.response)
-            console.log(error);
-            toast.error("Error: "+error.response.data.message)
-        
-    });
     };
     
     return (
