@@ -6,6 +6,8 @@ import { BrowserRouter } from 'react-router-dom';
 import Authprovider from './context/Authprovider.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+
   <BrowserRouter>
   <Authprovider>
   <div className=' dark:bg-slate-900 dark:text-white'>
@@ -14,6 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </Authprovider>
  
   </BrowserRouter>
+  </React.StrictMode>
    
   
 );
