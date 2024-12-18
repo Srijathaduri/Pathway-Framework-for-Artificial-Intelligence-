@@ -9,6 +9,7 @@ import Aboutas from './aboutas/Aboutas';
 import Insites from './Insites/Insites';
 import { Toaster } from 'react-hot-toast';
 import { useAuth } from './context/Authprovider';
+import NotFound from './components/NotFound';
 
 const App = () => {
   const [authUser,setAuthUser]=useAuth();
@@ -26,6 +27,8 @@ const App = () => {
         <Route path="/contactas" element={<ContactUs/>}/>
         <Route path="/aboutus" element={<Aboutas/>}/>
         <Route path="/insites" element={authUser? <Insites/>:<Navigate to ="/signup"/>}/>
+        <Route path="*" element={<NotFound />} />
+
 
       </Routes>
       <Toaster />

@@ -9,7 +9,6 @@ const frontendUrl = import.meta.env.VITE_NEXT_PUBLIC_FRONTEND_URL;
 console.log("Frontend URL:", frontendUrl);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
 
   <BrowserRouter>
   <Authprovider>
@@ -19,7 +18,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </Authprovider>
  
   </BrowserRouter>
-  </React.StrictMode>
    
   
 );

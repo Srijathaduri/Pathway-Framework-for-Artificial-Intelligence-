@@ -75,7 +75,7 @@ function Navbar() {
         }
       </ul>
     </div>
-    <img src="aianveshaklogo.png"  className="h-10 w-30 rounded-lg shadow-lg" />
+    <img src="/aianveshaklogo.png"  className="h-10 w-30 rounded-lg shadow-lg" />
 
   </div>
   <div className="navbar-end">
