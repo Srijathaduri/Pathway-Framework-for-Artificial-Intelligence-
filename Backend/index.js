@@ -10,36 +10,39 @@ const app = express();
 const PORT = process.env.PORT || 4001;
 const URI = process.env.MongoDBURI;
 
-// CORS configuration to allow your frontend's origin
+// CORS configuration
 const allowedOrigins = [
-  'http://localhost:5173',  // Local development frontend URL
-  process.env.FRONTEND_URL || 'http://localhost:5173',  // Environment variable for production or staging
+  'http://localhost:5173',
+  process.env.FRONTEND_URL || 'http://localhost:5173',
 ];
 
 app.use(cors({
   origin: (origin, callback) => {
-    // If no origin is present (like in Postman or server-side requests), allow the request
     if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);  // Allow the request
+      callback(null, true);
     } else {
-      callback(new Error("Not allowed by CORS"));  // Reject the request
+      callback(new Error(`CORS Error: ${origin} not allowed`));
     }
   },
 }));
 
 app.use(express.json());
 
-// Connect to MongoDB
-mongoose
-  .connect(URI)
-  .then(() => console.log("Connected to MongoDB"))
-  .catch((error) => console.log("Error connecting to MongoDB: ", error));
+// MongoDB connection
+mongoose.connect(URI || 'mongodb://localhost:27017/mydatabase')
+  .then(() => console.log('Connected to MongoDB'))
+  .catch((err) => console.log('Error connecting to MongoDB:', err));
 
-// Define routes
+// Health check route
+app.get('/health', (req, res) => {
+  res.status(200).send("Backend is healthy");
+});
+
+// Routes
 app.use("/anvesh", anveshRoute);
 app.use("/user", userRoute);
 
-// Fallback for unsupported routes
+// Fallback route
 app.all('*', (req, res) => {
   res.status(404).send("Route not found");
 });
