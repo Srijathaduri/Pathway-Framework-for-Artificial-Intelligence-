@@ -59,7 +59,7 @@ function Contact() {
               <button
                 type="button"
                 className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2 outline-none text-white"
-                onClick={() => navigate("/")}
+                onClick={() => navigate("/anveshakhome")}
               >
                 ✕
               </button>

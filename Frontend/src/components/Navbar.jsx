@@ -37,7 +37,7 @@ function Navbar() {
     }
   },[theme])
   const navItems=(<>        
-    <li><a href='/' className=' text-white'>Home</a></li>
+    <li><a href='/anveshakhome' className=' text-white'>Home</a></li>
     <li><a href='/AIprimer' className=' text-white'>AI Primer</a></li>
     <li><a href='/insites' className=' text-white'>AI Insights</a></li>
     <li><a href="/contactas" className=' text-white'>Contact Us</a></li>

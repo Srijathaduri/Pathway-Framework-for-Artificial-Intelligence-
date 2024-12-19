@@ -49,7 +49,7 @@ function Signup() {
                     <div className="modal-box">
                         <form onSubmit={handleSubmit(onSubmit)}>
                             {/* Close button */}
-                            <Link to="/" className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2 outline-none  text-white">✕</Link>
+                            <Link to="/anveshakhome" className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2 outline-none  text-white">✕</Link>
                             <h3 className="font-bold text-lg text-white">Signup</h3>
 
                             {/* Name Field */}

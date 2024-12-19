@@ -54,7 +54,7 @@ function AIinsites() {
             <h1 className='font-semibold text-2xl md:text-4xl text-white p-5 mt-20'>We're delighted to have you  {" "}<span className=' text-[#BCB88A]'>Here! :)</span></h1>
             <p className='font-normal text-base text-white mt-2 p-10' > Welcome to AI-Insites, your comprehensive guide to understanding the transformative world of Artificial Intelligence. This section delves into the core concepts shaping AI today. From the groundbreaking capabilities of Artificial Intelligence (AI) to the adaptive learning techniques of Machine Learning (ML), explore how these technologies are revolutionizing industries. Learn about Convolutional Neural Networks (CNN), the driving force behind advancements in image recognition and computer vision, and Recurrent Neural Networks (RNN), which power breakthroughs in natural language processing and sequence data analysis. Dive into the essence of AI and uncover how these cutting-edge technologies are shaping our future.
             This structure offers a professional and engaging introduction to your AI-Anveshak website while maintaining a focus on clarity.</p>
-            <Link to="/"><button className="bg-white text-[#011f4b] font-bold px-3 py-2 rounded-md hover:bg-slate-800 duration-300">Back</button></Link>
+            <Link to="/anveshakhome"><button className="bg-white text-[#011f4b] font-bold px-3 py-2 rounded-md hover:bg-slate-800 duration-300">Back</button></Link>
         
         </div>
         

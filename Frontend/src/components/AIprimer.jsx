@@ -61,7 +61,7 @@ function AIprimer()  {
        <div className=' items-center justify-center text-center '>
             <h1 className='font-semibold text-2xl md:text-4xl text-white p-5 mt-20'>We're delighted to have you  {" "}<span className=' text-[#BCB88A]'>Here! :)</span></h1>
             <p className='font-normal text-base text-white mt-2 p-10' > AI Primer is your starting point for an exciting journey into Artificial Intelligence. Explore resources  that simplify core concepts and skills, guiding you from  foundational ideas to advanced applications.Designed to make AI accessible and engaging,this section empowers learners of all levels to understand and connect with the world of AI. Unlock the possibilities with clear, approachable  insights into this transformative technology.</p>
-            <Link to="/"><button className="bg-white text-[#011f4b] font-bold px-3 py-2 rounded-md hover:bg-slate-800 duration-300">Back</button></Link>
+            <Link to="/anveshakhome"><button className="bg-white text-[#011f4b] font-bold px-3 py-2 rounded-md hover:bg-slate-800 duration-300">Back</button></Link>
         </div>
     </div>
     <div className='text-white font-semibold max-w-screen-2xl container mx-auto md:px-20 px-4 '>
