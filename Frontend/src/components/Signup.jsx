@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, replace, useActionData, useLocation, useNavigate } from "react-router-dom";
-import Login from './login';
+import Login from './Login.jsx'
 import axios from 'axios';
 import toast from 'react-hot-toast';
 import { useForm } from 'react-hook-form';
