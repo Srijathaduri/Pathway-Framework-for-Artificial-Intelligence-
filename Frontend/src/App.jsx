@@ -3,7 +3,7 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import Home from './home/Home.jsx'
 import Basicaiprimer from './primer/Basicaiprimer.jsx'
 import Signup from './components/Signup.jsx';
-import Login from './components/login.jsx';
+import Login from './components/Login.jsx'
 import ContactUs from './contact/ContactUs.jsx';
 import Aboutas from './aboutas/Aboutas.jsx';
 import Insites from './Insites/Insites.jsx';
