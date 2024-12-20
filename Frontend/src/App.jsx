@@ -1,12 +1,12 @@
 import React ,{useEffect} from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';
-import Home from "./home/Home";
-import Basicaiprimer from './primer/Basicaiprimer';
-import Signup from './components/Signup';
-import Login from './components/login';
-import ContactUs from './contact/ContactUs';
-import Aboutas from './aboutas/Aboutas';
-import Insites from './Insites/Insites';
+import Home from './home/Home.jsx'
+import Basicaiprimer from './primer/Basicaiprimer.jsx'
+import Signup from './components/Signup.jsx';
+import Login from './components/login.jsx';
+import ContactUs from './contact/ContactUs.jsx';
+import Aboutas from './aboutas/Aboutas.jsx';
+import Insites from './Insites/Insites.jsx';
 import { Toaster } from 'react-hot-toast';
 import { useAuth } from './context/Authprovider';
 
