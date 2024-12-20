@@ -13,7 +13,7 @@ const URI = process.env.MongoDBURI;
 // CORS configuration
 const allowedOrigins = [
   'http://localhost:5173',
-  process.env.FRONTEND_URL || 'http://localhost:5173',
+  process.env.FRONTEND_URL || 'https://ai-anveshak-front-end.onrender.com',
 ];
 
 app.use(cors({
