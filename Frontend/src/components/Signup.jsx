@@ -4,7 +4,7 @@ import Login from './login';
 import axios from 'axios';
 import toast from 'react-hot-toast';
 import { useForm } from 'react-hook-form';
-const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:4001";  // Updated
+const apiUrl = import.meta.env.VITE_FRONTEND_URL || "https://pathway-framework-for-artificial.onrender.com";  // Updated
 function Signup() {
    const location=useLocation()
    const navigate=useNavigate()

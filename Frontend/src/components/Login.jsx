@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import axios from 'axios';
 import toast from 'react-hot-toast';
-const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:4001";
+const apiUrl = import.meta.env.VITE_FRONTEND_URL || "https://pathway-framework-for-artificial.onrender.com";
 function Login() {
   const {
     register,

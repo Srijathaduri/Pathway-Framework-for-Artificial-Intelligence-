@@ -5,7 +5,7 @@ import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom';
 import Authprovider from './context/Authprovider.jsx';
 
-const frontendUrl = import.meta.env.VITE_NEXT_PUBLIC_FRONTEND_URL;
+const frontendUrl = import.meta.env.VITE_FRONTEND_URL || 'https://pathway-framework-for-artificial.onrender.com';
 console.log("Frontend URL:", frontendUrl);
 
 ReactDOM.createRoot(document.getElementById('root')).render(

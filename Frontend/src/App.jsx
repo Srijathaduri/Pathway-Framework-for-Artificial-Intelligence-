@@ -14,7 +14,7 @@ const App = () => {
   const [authUser,setAuthUser]=useAuth();
   console.log(authUser);
   useEffect(() => {
-    console.log("Frontend URL:", import.meta.env.VITE_FRONTEND_URL); // Log Frontend URL on mount
+    console.log("Frontend URL:", import.meta.env.VITE_FRONTEND_URL || 'https://pathway-framework-for-artificial.onrender.com'); // Log Frontend URL on mount
   }, []); 
   return (
     <div className="dark:bg-slate-900 dark:text-white">
