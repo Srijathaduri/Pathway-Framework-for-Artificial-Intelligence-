@@ -12,8 +12,8 @@ const URI = process.env.MongoDBURI;
 
 // CORS configuration
 const allowedOrigins = [
-  'https://ai-anveshak-front-end.onrender.com',
-  process.env.FRONTEND_URL || 'https://ai-anveshak-front-end.onrender.com',
+  'https://ai-anveshak.onrender.com',
+  process.env.FRONTEND_URL || 'https://ai-anveshak.onrender.com',
 ];
 
 app.use(cors({
