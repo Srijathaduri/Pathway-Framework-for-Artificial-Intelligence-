@@ -13,7 +13,7 @@ function Banner() {
   </div>
   
   <div className="order-1 w-full mt-10 md:w-1/2 md:mt-20 p-5 flex justify-end items-center ">
-  <img src="homepageimage.webp" className="h-200 w-180 rounded shadow"/>
+  <img src="/homepageimage.webp" className="h-200 w-180 rounded shadow"/>
 </div>
   </div>
   </>

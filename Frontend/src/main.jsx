@@ -9,8 +9,8 @@ const frontendUrl = import.meta.env.VITE_NEXT_PUBLIC_FRONTEND_URL;
 console.log("Frontend URL:", frontendUrl);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-
-  <BrowserRouter>
+  <React.StrictMode>
+  <BrowserRouter future={{ v7_relativeSplatPath: true }}>
   <Authprovider>
   <div className=' dark:bg-slate-900 dark:text-white'>
       <App />
@@ -18,6 +18,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </Authprovider>
  
   </BrowserRouter>
-   
+  </React.StrictMode>
+
   
 );

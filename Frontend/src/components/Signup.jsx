@@ -102,7 +102,7 @@ function Signup() {
                                 <p className='text-white ml-10'>
                                     Have an account?{' '}
                                     <button
-                                        to="/"
+                                        to="/anveshakhome"
                                         className='underline text-blue-500 cursor-pointer'
                                         onClick={() => document.getElementById("my_modal_3").showModal()}
                                     >
